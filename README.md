@@ -12,7 +12,7 @@ Hello and welcome to my introduction page. I am @Samantha-A-Taylor, a bioinforma
  - **Graduate Certification** in Bioinformatics Applications at the University of North Carolina - Charlotte [*August 2020 - May 2021*]
  - **B.A. in Biology**, with minors in statistics and bioinformatics at the University of North Carolina - Charlotte [*August 2018 - May 2020*]
  - **General A.S.** at Central Piedmont Community College [*August 2016 - May 2018*]
-# Recent Projects I Am Proud Of :books:
+# Recent Projects :books:
 ***
 **Culex tarsalis Genome Analysis** - North Carolina Research Campus - Kannapolis, North Carolina [(Repository: Culex-tarsalis)](https://github.com/Samantha-A-Taylor/Culex-tarsalis)
 
