@@ -12,7 +12,7 @@ Hello and welcome to my introduction page. I am @Samantha-A-Taylor, a bioinforma
  - **Graduate Certification** in Bioinformatics Applications at the University of North Carolina - Charlotte [*August 2020 - May 2021*]
  - **B.A. in Biology**, with minors in statistics and bioinformatics at the University of North Carolina - Charlotte [*August 2018 - May 2020*]
  - **General A.S.** at Central Piedmont Community College [*August 2016 - May 2018*]
-# Projects I Am Proud Of :books:
+# Recent Projects I Am Proud Of :books:
 ***
 **Culex tarsalis Genome Analysis** - North Carolina Research Campus - Kannapolis, North Carolina [(Repository: Culex-tarsalis)](https://github.com/Samantha-A-Taylor/Culex-tarsalis)
 
@@ -20,4 +20,6 @@ Hello and welcome to my introduction page. I am @Samantha-A-Taylor, a bioinforma
      of bioinformatics tools (GenMap, OrthoFinder, UniFunc, InterProScan, etc.) and programming languages (SQLite, R, bash, Python3)
      to analyze and troubleshoot the sample data and reference genomes.
      
-**Research Assistant** College of Computing and Informatics, UNC - Charlotte. I did research to analyze and explain the spread of emotion during Large Scale Crisis Events. The researches that we made are getting published this year and it is available in few days !
+**Pandas SARS-CoV-2 Project** - UNCC's College of Computing and Informatics - Charlotte, North Carolina [(Repository: Pandas SARS-CoV-2 Project)](https://github.com/Samantha-A-Taylor/Pandas_SARS-CoV-2_Project-/blob/main/Pandas%20SARS-CoV-2%20Project.ipynb)
+
+     - Created a demo for utalizing Pandas when working with SARS-CoV-2 computational research/database data.
