@@ -22,4 +22,4 @@ Hello and welcome to my introduction page. I am @Samantha-A-Taylor, a bioinforma
      
 **Pandas SARS-CoV-2 Project** - UNCC's College of Computing and Informatics - Charlotte, North Carolina [(Repository: Pandas SARS-CoV-2 Project)](https://github.com/Samantha-A-Taylor/Pandas_SARS-CoV-2_Project-/blob/main/Pandas%20SARS-CoV-2%20Project.ipynb)
 
-     - Created a demo for utalizing Pandas when working with SARS-CoV-2 computational research/database data.
+     - Created a demo for utilizing Pandas when working with SARS-CoV-2 computational research/database data.
