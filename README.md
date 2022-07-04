@@ -32,12 +32,16 @@ Hello and welcome to my introduction page. I am @Samantha-A-Taylor, a bioinforma
 
 # Recent Projects :books:
 ***
-**Culex tarsalis Genome Analysis** - North Carolina Research Campus - Kannapolis, North Carolina [(Repository: Culex-tarsalis)](https://github.com/Samantha-A-Taylor/Culex-tarsalis)
+**Culex tarsalis Genome Analysis**
+<br>North Carolina Research Campus [Kannapolis, North Carolina]
+<br>[(Repository: Culex-tarsalis)](https://github.com/Samantha-A-Taylor/Culex-tarsalis)
 
      Assisted my PI in researching local adaptation and range expansion in Culex tarsalis mosquitoes through use of a combination 
      of bioinformatics tools (GenMap, OrthoFinder, UniFunc, InterProScan, etc.) and programming languages (SQLite, R, bash, Python3)
      to analyze and troubleshoot the sample data and reference genomes.
      
-**Pandas SARS-CoV-2 Project** - UNCC's College of Computing and Informatics - Charlotte, North Carolina [(Repository: Pandas SARS-CoV-2 Project)](https://github.com/Samantha-A-Taylor/Pandas_SARS-CoV-2_Project-/blob/main/Pandas%20SARS-CoV-2%20Project.ipynb)
+**Pandas SARS-CoV-2 Project**
+<br>UNC Charlotte's College of Computing and Informatics [Charlotte, North Carolina]
+<br>[(Repository: Pandas SARS-CoV-2 Project)](https://github.com/Samantha-A-Taylor/Pandas_SARS-CoV-2_Project-/blob/main/Pandas%20SARS-CoV-2%20Project.ipynb)
 
      Created a demo for utilizing Pandas when working with SARS-CoV-2 computational research/database data.
