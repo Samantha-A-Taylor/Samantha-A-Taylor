@@ -45,3 +45,5 @@ Hello and welcome to my introduction page. I am @Samantha-A-Taylor, a bioinforma
 <br>[(Repository: Pandas SARS-CoV-2 Project)](https://github.com/Samantha-A-Taylor/Pandas_SARS-CoV-2_Project-/blob/main/Pandas%20SARS-CoV-2%20Project.ipynb)
 
      Created a demo for utilizing Pandas when working with SARS-CoV-2 computational research/database data.
+
+***
