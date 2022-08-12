@@ -1,6 +1,6 @@
 # About Me 👋
 ***
-Hello and welcome to my introduction page. I am @Samantha-A-Taylor, a bioinformatician and recent M.S. graduate from the University of North Carolina - Charlotte as of May 2022. I have a range of computational skills that I have aquired over the last 4 years, and am proficient in:
+Hello, and welcome to my introduction page! I am @Samantha-A-Taylor, a bioinformatician and recent M.S. graduate from the University of North Carolina - Charlotte as of May 2022. I have a range of computational skills that I have aquired over the last 4 years, and am proficient in:
 
      - Python3/Pandas
      - SQL/SQLite
