@@ -1,10 +1,10 @@
 # About Me 👋
 ***
-Hello, and welcome to my introduction page! I am @Samantha-A-Taylor, a bioinformatician and recent M.S. graduate from the University of North Carolina - Charlotte as of May 2022. I have a range of computational skills that I have aquired over the last 4 years, and am proficient in:
+Hello, and welcome to my page! I am @Samantha-A-Taylor, a bioinformatician and M.S. graduate from the University of North Carolina at Charlotte. I have a range of computational skills that I have aquired over the years, and am proficient in:
 
-     - Python3/Pandas
-     - SQL/SQLite
-     - R/Rstudio
+     - Python3
+     - SQL
+     - R
      - Bash/Unix
 
 # Education :mortar_board:
@@ -12,23 +12,24 @@ Hello, and welcome to my introduction page! I am @Samantha-A-Taylor, a bioinform
 **Master of Science in Bioinformatics and Genomics**
 
      The University of North Carolina - Charlotte [Charlotte, North Carolina]
-     August 2021 - May 2022
+     Relevant coursework includes: 
+     · Bioinformatics Programming – Python programming, object-oriented design, algorithm analysis, Unix utilities, sequence alignment, team-based coding, GUI development.
+     · Statistics for Bioinformatics – Statistical methods for bioinformatics, probability, stochastic processes, information theory, molecular biology applications, R programming.
+     · Molecular Sequence Analysis – Computational methods for sequence analysis, public databases, sequence alignment, phylogenetics, hidden Markov models, neural networks, genome evolution.
+     · Design and Implementation of Bioinformatics Databases – Database modeling, relational and hierarchical models, SQL for research, data integration, ML, XML Schema, BioOntologies.
 
 **Graduate Certificate in Bioinformatics Applications**
 
      The University of North Carolina - Charlotte [Charlotte, North Carolina]
-     August 2020 - May 2021
 
 **Bachelor of Arts in Biology**
 
      Minors In Statistics and Bioinformatics
      The University of North Carolina - Charlotte [Charlotte, North Carolina]
-     August 2018 - May 2020
 
 **Associate in Science**
 
      Central Piedmont Community College [Charlotte, North Carolina]
-     August 2016 - May 2018
 
 # Recent Projects :books:
 ***
