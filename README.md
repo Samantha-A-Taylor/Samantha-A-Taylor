@@ -21,7 +21,7 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
      techniques, regression analysis, and experimental design. Emphasis was placed on applying these concepts to 
      real-world data, particularly in bioinformatics, using computational tools.
 
-# Past Projects :books:
+# Past Projects :computer:
 ***
 **Culex tarsalis Genome Analysis**
 <br>North Carolina Research Campus [Kannapolis, North Carolina]
