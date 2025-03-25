@@ -1,45 +1,35 @@
 # About Me 👋
 ***
-Hello, and welcome to my page! I am @Samantha-A-Taylor, a bioinformatician and M.S. graduate from the University of North Carolina at Charlotte. I have a range of computational skills that I have aquired over the years, and am proficient in:
-
-     - Python3
-     - SQL
-     - R
-     - Bash/Unix
+Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the University of North Carolina at Charlotte.
 
 # Education :mortar_board:
 ***
 **Master of Science in Bioinformatics and Genomics**
 
-     The University of North Carolina at Charlotte [Charlotte, North Carolina]
-     - Relevant coursework includes: 
-          - Bioinformatics Programming – Python programming, object-oriented design, algorithm analysis, Unix utilities, sequence alignment, team-based coding, GUI development.
-          - Statistics for Bioinformatics – Statistical methods for bioinformatics, probability, stochastic processes, information theory, molecular biology applications, R programming.
-          - Molecular Sequence Analysis – Computational methods for sequence analysis, public databases, sequence alignment, phylogenetics, hidden Markov models, neural networks, genome evolution.
-          - Design and Implementation of Bioinformatics Databases – Database modeling, relational and hierarchical models, SQL for research, data integration, ML, XML Schema, BioOntologies.
+     The University of North Carolina at Charlotte
+     
+     The coursework focused on programming, statistical analysis, and database management in bioinformatics, covering 
+     Python, R, and SQL for data processing, algorithm development, and research applications. Key topics included sequence 
+     alignment, molecular data analysis, phylogenetics, machine learning, and database modeling, with an emphasis on
+     practical implementation using computational tools and open-source software.
 
-**Graduate Certificate in Bioinformatics Applications**
+**Bachelor of Arts in Biology &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Minors In Statistics and Bioinformatics**
+     
+     The University of North Carolina at Charlotte
 
-     The University of North Carolina at Charlotte [Charlotte, North Carolina]
+     The coursework covered foundational and advanced statistical methods, including probability models, inference 
+     techniques, regression analysis, and experimental design. Emphasis was placed on applying these concepts to 
+     real-world data, particularly in bioinformatics, using computational tools.
 
-**Bachelor of Arts in Biology**
-
-     Minors In Statistics and Bioinformatics
-     The University of North Carolina at Charlotte [Charlotte, North Carolina]
-
-**Associate in Science**
-
-     Central Piedmont Community College [Charlotte, North Carolina]
-
-# Recent Projects :books:
+# Past Projects :books:
 ***
 **Culex tarsalis Genome Analysis**
 <br>North Carolina Research Campus [Kannapolis, North Carolina]
 <br>[(Repository: Culex-tarsalis)](https://github.com/Samantha-A-Taylor/Culex-tarsalis)
 
-     Assisted my PI in researching local adaptation and range expansion in Culex tarsalis mosquitoes through use of a combination 
-     of bioinformatics tools (GenMap, OrthoFinder, UniFunc, InterProScan, etc.) and programming languages (SQLite, R, bash, Python3)
-     to analyze and troubleshoot the sample data and reference genomes.
+     Assisted my PI in researching local adaptation and range expansion in Culex tarsalis mosquitoes through use of a 
+     combination of bioinformatics tools (GenMap, OrthoFinder, UniFunc, InterProScan, etc.) and programming languages 
+     (SQLite, R, bash, Python3) to analyze and troubleshoot the sample data and reference genomes.
      
 **Pandas SARS-CoV-2 Project**
 <br>UNC Charlotte's College of Computing and Informatics [Charlotte, North Carolina]
