@@ -13,10 +13,12 @@ Hello, and welcome to my page! I am @Samantha-A-Taylor, a bioinformatician and M
 
      The University of North Carolina - Charlotte [Charlotte, North Carolina]
      Relevant coursework includes: 
+```
      > Bioinformatics Programming – Python programming, object-oriented design, algorithm analysis, Unix utilities, sequence alignment, team-based coding, GUI development.
      > Statistics for Bioinformatics – Statistical methods for bioinformatics, probability, stochastic processes, information theory, molecular biology applications, R programming.
      > Molecular Sequence Analysis – Computational methods for sequence analysis, public databases, sequence alignment, phylogenetics, hidden Markov models, neural networks, genome evolution.
      > Design and Implementation of Bioinformatics Databases – Database modeling, relational and hierarchical models, SQL for research, data integration, ML, XML Schema, BioOntologies.
+ ```
 
 **Graduate Certificate in Bioinformatics Applications**
 
