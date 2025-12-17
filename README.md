@@ -42,6 +42,14 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
      My IBM Course Certification Final Project demo covering Data Analysis of Public School Data, Crime Data, and 
      Socioeconomic Indicators in Chicago Community Areas.
 
+**[Misc. Bioinformatics Micro-Projects](https://github.com/Samantha-A-Taylor/MiscBinfMicroProjects)**
+<br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
+
+     Graduate-level bioinformatics and phylogenetics research projects involving Bayesian and maximum likelihood 
+     inference, coalescent species tree estimation, ancestral state reconstruction, molecular clock dating, gene 
+     flow testing, and genetic distance modeling using R, R Markdown, RAxML, MrBayes, ASTRAL, phytools, phangorn, 
+     MUSCLE, Clustal-Omega, and HPC-based workflows.
+
 **[Culex tarsalis Genome Analysis](https://github.com/Samantha-A-Taylor/Culex-tarsalis)**
 <br>North Carolina Research Campus &nbsp; &nbsp; | &nbsp; &nbsp; Kannapolis, North Carolina
 
