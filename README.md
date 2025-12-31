@@ -34,10 +34,13 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
      bioinformatics tools [GenMap, OrthoFinder, UniFunc, InterProScan, etc.] and programming languages [SQL, R, Python] 
      to analyze and troubleshoot the sample data and reference genomes.
      
-**[SARS-CoV-2 Project](https://github.com/Samantha-A-Taylor/PandasSARS-CoV-2Project)**
+**[COVID-19 Case Trends and State-Level Analysis in the United States | Summer 2020 Dynamics](https://github.com/Samantha-A-Taylor/COVID-19CaseTrendsAndState-LevelAnalysisInTheUS)**
 <br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
 
-     A demo for utilizing Pandas when working with SARS-CoV-2 computational research/database data.
+       Explored US COVID-19 confirmed case data from March through September 2020 using Python, Pandas, 
+       and Matplotlib. Conducted EDA to track state-level trends, calculate numerical and percentage increases, 
+       compute weekly average case growth, and analyze proportions of national cases, generating actionable 
+       insights into pandemic dynamics across states and territories.  
 
 # Education :mortar_board:
 ***
