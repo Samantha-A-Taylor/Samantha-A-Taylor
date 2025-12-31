@@ -34,7 +34,7 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
      bioinformatics tools [GenMap, OrthoFinder, UniFunc, InterProScan, etc.] and programming languages [SQL, R, Python] 
      to analyze and troubleshoot the sample data and reference genomes.
      
-**[SARS-CoV-2 Project](https://github.com/Samantha-A-Taylor/Pandas_SARS-CoV-2_Project-/blob/main/Pandas%20SARS-CoV-2%20Project.ipynb)**
+**[SARS-CoV-2 Project](https://github.com/Samantha-A-Taylor/PandasSARS-CoV-2Project)**
 <br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
 
      A demo for utilizing Pandas when working with SARS-CoV-2 computational research/database data.
