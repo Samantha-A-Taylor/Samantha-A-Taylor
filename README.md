@@ -4,14 +4,14 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
 
 # Projects :computer:
 ***
-**[Student Performance Analytics and Trend Analysis | March Madness Reading Challenge](https://github.com/Samantha-A-Taylor/StudentPerformanceAnalyticsAndTrend-AnalysisMarchMadnessReadingChallenge2025](https://github.com/Samantha-A-Taylor/StudentPerformanceAnalyticsAndTrendAnalysis-MarchMadnessReadingChallenge2025/edit/main/README.md)**
+**[Student Performance Analytics and Trend Analysis | March Madness Reading Challenge](https://github.com/Samantha-A-Taylor/StudentPerformanceAnalyticsAndTrendAnalysis-MarchMadnessReadingChallenge2025/edit/main/README.md)**
 <br>Cabarrus County Schools &nbsp; &nbsp; | &nbsp; &nbsp; Concord, North Carolina
 
       Explored K–5 student reading log data from the March Madness Reading Challenge using Python, Pandas, 
       Seaborn, and Matplotlib.pyplot. Conducted EDA to track weekly reading trends, identify top performers 
       and at-risk students, and analyze class-level distributions and outliers to generate actionable insights.
 
-**[Quantitative Analysis of Socioeconomic Indicators, Crime, and Educational Outcomes in Chicago Communities](https://github.com/Samantha-A-Taylor/QuantitativeAnalysisOfSocioeconomicIndicatorsCrimeAndEducationalOutcomesInChicagoCommunities/tree/main)**
+**[Quantitative Analysis of Socioeconomic Indicators, Crime, and Educational Outcomes in Chicago Communities](https://github.com/Samantha-A-Taylor/QuantitativeAnalysisOfSocioeconomicIndicatorsCrimeAndEducationalOutcomesInChicagoCommunities)**
 <br>Independent Project | Remote
 
       Conducted community-level analysis of Chicago census, public school, and crime datasets using Python, Pandas, 
