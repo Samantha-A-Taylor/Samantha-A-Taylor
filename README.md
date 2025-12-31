@@ -4,18 +4,20 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
 
 # Projects :computer:
 ***
-**[Student Performance Analytics and Trend Analysis | March Madness Reading Challenge](https://github.com/Samantha-A-Taylor/StudentPerformanceAnalyticsAndTrend-AnalysisMarchMadnessReadingChallenge2025)**
+**[Student Performance Analytics and Trend Analysis | March Madness Reading Challenge](https://github.com/Samantha-A-Taylor/StudentPerformanceAnalyticsAndTrend-AnalysisMarchMadnessReadingChallenge2025](https://github.com/Samantha-A-Taylor/StudentPerformanceAnalyticsAndTrendAnalysis-MarchMadnessReadingChallenge2025/edit/main/README.md)**
 <br>Cabarrus County Schools &nbsp; &nbsp; | &nbsp; &nbsp; Concord, North Carolina
 
       Explored K–5 student reading log data from the March Madness Reading Challenge using Python, Pandas, 
       Seaborn, and Matplotlib.pyplot. Conducted EDA to track weekly reading trends, identify top performers 
       and at-risk students, and analyze class-level distributions and outliers to generate actionable insights.
 
-**[IBM Course Certification Final Project](https://github.com/Samantha-A-Taylor/IBM_Databases_and_SQL_Course_Certificate_Work)**
-<br>Certification Program Developed by IBM, Completed on Coursera
+**[Quantitative Analysis of Socioeconomic Indicators, Crime, and Educational Outcomes in Chicago Communities](https://github.com/Samantha-A-Taylor/QuantitativeAnalysisOfSocioeconomicIndicatorsCrimeAndEducationalOutcomesInChicagoCommunities/tree/main)**
+<br>Independent Project | Remote
 
-     My IBM Course Certification Final Project demo covering Data Analysis of Public School Data, Crime Data, and 
-     Socioeconomic Indicators in Chicago Community Areas.
+      Conducted community-level analysis of Chicago census, public school, and crime datasets using Python, Pandas, 
+      Seaborn, Matplotlib, and SQLite3. Performed EDA to explore distributions, temporal and spatial trends, and 
+      correlations across socioeconomic, crime, and educational metrics, generating actionable insights for 
+      policymakers and educators.
 
 **[Misc. Bioinformatics Micro-Projects](https://github.com/Samantha-A-Taylor/MiscBinfMicroProjects)**
 <br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
