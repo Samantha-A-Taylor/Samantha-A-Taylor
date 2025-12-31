@@ -12,7 +12,7 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
       and at-risk students, and analyze class-level distributions and outliers to generate actionable insights.
 
 **[Quantitative Analysis of Socioeconomic Indicators, Crime, and Educational Outcomes in Chicago Communities](https://github.com/Samantha-A-Taylor/QuantitativeAnalysisOfSocioeconomicIndicatorsCrimeAndEducationalOutcomesInChicagoCommunities)**
-<br>Independent Project | Remote
+<br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
       Conducted community-level analysis of Chicago census, public school, and crime datasets using Python, Pandas, 
       Seaborn, Matplotlib, and SQLite3. Performed EDA to explore distributions, temporal and spatial trends, and 
