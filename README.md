@@ -7,6 +7,8 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
 **[Student Performance Analytics and Trend Analysis | March Madness Reading Challenge](https://github.com/Samantha-A-Taylor/StudentPerformanceAnalyticsAndTrendAnalysis-MarchMadnessReadingChallenge2025/edit/main/README.md)**
 <br>Cabarrus County Schools &nbsp; &nbsp; | &nbsp; &nbsp; Concord, North Carolina
 
+[![Tableau Dashboard](dashboard.png)](https://public.tableau.com/views/YourDashboardName)
+
       Explored K–5 student reading log data from the March Madness Reading Challenge using Python, Pandas, 
       Seaborn, and Matplotlib.pyplot. Conducted EDA to track weekly reading trends, identify top performers 
       and at-risk students, and analyze class-level distributions and outliers to generate actionable insights.
