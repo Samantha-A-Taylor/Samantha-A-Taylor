@@ -7,9 +7,6 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
 **[Sales Performance & Revenue Analysis KPI Trends, Product Insights, and Regional Performance](https://github.com/Samantha-A-Taylor/SalesPerformanceRevenueAnalysisKPITrendsProductInsightsAndRegionalPerformance/tree/main/)**
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
-[![Tableau Dashboard](SalesPerformanceRevenueAnalysisKPITrendsProductInsightsAndRegionalPerformance/visualizations
-/Sales Performance Dashboard.png)](https://public.tableau.com/views/YourDashboardName)
-
       Ex
 
 **[Student Performance Analytics and Trend Analysis | March Madness Reading Challenge](https://github.com/Samantha-A-Taylor/StudentPerformanceAnalyticsAndTrendAnalysis-MarchMadnessReadingChallenge2025)**
