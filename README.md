@@ -7,7 +7,12 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
 **[Sales Performance & Revenue Analysis KPI Trends, Product Insights, and Regional Performance](https://github.com/Samantha-A-Taylor/SalesPerformanceRevenueAnalysisKPITrendsProductInsightsAndRegionalPerformance/tree/main/)**
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
-      Ex
+      Analyzed a synthetic, transaction-level retail sales dataset spanning 2022–2024 using Python, Pandas, 
+      SQL/SQLite, Seaborn, and Matplotlib. Conducted end-to-end EDA to evaluate revenue and profit KPIs, 
+      product category performance, regional trends, discount impacts, and customer purchasing behavior, 
+      generating actionable insights into sales drivers, operational efficiency, and business performance 
+      across time and geography.
+
 
 **[Student Performance Analytics and Trend Analysis | March Madness Reading Challenge](https://github.com/Samantha-A-Taylor/StudentPerformanceAnalyticsAndTrendAnalysis-MarchMadnessReadingChallenge2025)**
 <br>Cabarrus County Schools &nbsp; &nbsp; | &nbsp; &nbsp; Concord, North Carolina
@@ -15,6 +20,7 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
       Explored K–5 student reading log data from the March Madness Reading Challenge using Python, Pandas, 
       Seaborn, and Matplotlib.pyplot. Conducted EDA to track weekly reading trends, identify top performers 
       and at-risk students, and analyze class-level distributions and outliers to generate actionable insights.
+
 
 **[Quantitative Analysis of Socioeconomic Indicators, Crime, and Educational Outcomes in Chicago Communities](https://github.com/Samantha-A-Taylor/QuantitativeAnalysisOfSocioeconomicIndicatorsCrimeAndEducationalOutcomesInChicagoCommunities)**
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
@@ -24,6 +30,16 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
       correlations across socioeconomic, crime, and educational metrics, generating actionable insights for 
       policymakers and educators.
 
+
+**[COVID-19 Case Trends and State-Level Analysis in the United States | Summer 2020 Dynamics](https://github.com/Samantha-A-Taylor/COVID-19CaseTrendsAndState-LevelAnalysisInTheUS)**
+<br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
+
+       Explored US COVID-19 confirmed case data from March through September 2020 using Python, Pandas, 
+       and Matplotlib. Conducted EDA to track state-level trends, calculate numerical and percentage increases, 
+       compute weekly average case growth, and analyze proportions of national cases, generating actionable 
+       insights into pandemic dynamics across states and territories. 
+
+
 **[Misc. Bioinformatics Micro-Projects](https://github.com/Samantha-A-Taylor/MiscBinfMicroProjects)**
 <br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
 
@@ -32,20 +48,14 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
      flow testing, and genetic distance modeling using R, R Markdown, RAxML, MrBayes, ASTRAL, phytools, phangorn, 
      MUSCLE, Clustal-Omega, and HPC-based workflows.
 
+
 **[Culex tarsalis Genome Analysis](https://github.com/Samantha-A-Taylor/Culex-tarsalis)**
 <br>North Carolina Research Campus &nbsp; &nbsp; | &nbsp; &nbsp; Kannapolis, North Carolina
 
      Research of local adaptation and range expansion in Culex tarsalis mosquitoes through use of a combination of 
      bioinformatics tools [GenMap, OrthoFinder, UniFunc, InterProScan, etc.] and programming languages [SQL, R, Python] 
-     to analyze and troubleshoot the sample data and reference genomes.
-     
-**[COVID-19 Case Trends and State-Level Analysis in the United States | Summer 2020 Dynamics](https://github.com/Samantha-A-Taylor/COVID-19CaseTrendsAndState-LevelAnalysisInTheUS)**
-<br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
+     to analyze and troubleshoot the sample data and reference genomes. 
 
-       Explored US COVID-19 confirmed case data from March through September 2020 using Python, Pandas, 
-       and Matplotlib. Conducted EDA to track state-level trends, calculate numerical and percentage increases, 
-       compute weekly average case growth, and analyze proportions of national cases, generating actionable 
-       insights into pandemic dynamics across states and territories.  
 
 # Education :mortar_board:
 ***
