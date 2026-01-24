@@ -13,6 +13,14 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
       generating actionable insights into sales drivers, operational efficiency, and business performance 
       across time and geography.
 
+**[Multi-Factor Transaction Monitoring and Fraud Risk Analysis](https://github.com/Samantha-A-Taylor/Multi-FactorTransactionMonitoringAndFraudRiskAnalysis)**
+<br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
+
+      Analyzed a synthetic financial transaction dataset using SQL/SQLite and Tableau. Conducted end-to-end 
+      exploratory data analysis (EDA) to examine transaction amounts, frequency patterns, and login behavior. 
+      Engineered multi-factor fraud metrics to flag high-risk transactions, scored accounts by combined 
+      anomalies, and visualized behavioral and geographic patterns to generate actionable insights for 
+      proactive fraud detection and transaction monitoring.  
 
 **[Student Performance Analytics and Trend Analysis | March Madness Reading Challenge](https://github.com/Samantha-A-Taylor/StudentPerformanceAnalyticsAndTrendAnalysis-MarchMadnessReadingChallenge2025)**
 <br>Cabarrus County Schools &nbsp; &nbsp; | &nbsp; &nbsp; Concord, North Carolina
