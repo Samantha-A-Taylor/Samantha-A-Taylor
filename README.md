@@ -57,7 +57,7 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
      MUSCLE, Clustal-Omega, and HPC-based workflows.
 
 
-**[Local Adaptation and Range Expansion in Culex Mosquitoes](https://github.com/Samantha-A-Taylor/Culex-tarsalis)**
+**[Local Adaptation and Range Expansion in _Culex tarsalis_: Comparative Genomics and Population-Level Analysis​](https://github.com/Samantha-A-Taylor/Culex-tarsalis)**
 <br>North Carolina Research Campus &nbsp; &nbsp; | &nbsp; &nbsp; Kannapolis, North Carolina
 
      Research of local adaptation and range expansion in Culex tarsalis mosquitoes through use of a combination of 
