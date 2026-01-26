@@ -2,7 +2,8 @@
 ***
 Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the University of North Carolina at Charlotte. I have a strong passion for numbers, statistical analysis, and data science, and I enjoy working with complex datasets. Skilled in SQL, R, and Python, I apply computational and analytical techniques to solve biological and data-driven problems. This page highlights my projects and past work as I continue exploring the intersection of data science and bioinformatics.
 
-# Projects :computer:
+
+# Professional Projects :computer:
 ***
 **[Sales Performance & Revenue Analysis KPI Trends, Product Insights, and Regional Performance](https://github.com/Samantha-A-Taylor/SalesPerformanceRevenueAnalysisKPITrendsProductInsightsAndRegionalPerformance/tree/main/)**
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
@@ -13,6 +14,7 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
       generating actionable insights into sales drivers, operational efficiency, and business performance 
       across time and geography.
 
+
 **[Multi-Factor Transaction Monitoring and Fraud Risk Analysis](https://github.com/Samantha-A-Taylor/Multi-FactorTransactionMonitoringAndFraudRiskAnalysis)**
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
@@ -21,6 +23,7 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
       Engineered multi-factor fraud metrics to flag high-risk transactions, scored accounts by combined 
       anomalies, and visualized behavioral and geographic patterns to generate actionable insights for 
       proactive fraud detection and transaction monitoring.  
+
 
 **[Student Performance Analytics and Trend Analysis | March Madness Reading Challenge](https://github.com/Samantha-A-Taylor/StudentPerformanceAnalyticsAndTrendAnalysis-MarchMadnessReadingChallenge2025)**
 <br>Cabarrus County Schools &nbsp; &nbsp; | &nbsp; &nbsp; Concord, North Carolina
@@ -48,6 +51,8 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
        insights into pandemic dynamics across states and territories. 
 
 
+# Research & Academic Projects :microscope:
+***
 **[Misc. Bioinformatics Micro-Projects](https://github.com/Samantha-A-Taylor/MiscBinfMicroProjects)**
 <br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
 
@@ -63,6 +68,18 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
      Research of local adaptation and range expansion in Culex tarsalis mosquitoes through use of a combination of 
      bioinformatics tools [GenMap, OrthoFinder, UniFunc, InterProScan, etc.] and programming languages [SQL, R, Python] 
      to analyze and troubleshoot the sample data and reference genomes. 
+
+
+# Creative Projects :sparkles:
+***
+**[Mass Effect 3: War Asset Distribution & Strategic Analysis](https://github.com/Samantha-A-Taylor/)**
+<br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
+
+      Analyzed war asset distribution across the Milky Way galaxy in *Mass Effect 3* using Python, Pandas, 
+      Seaborn, Matplotlib, and SQLite. Conducted exploratory data analysis (EDA) to quantify assets at 
+      region, cluster, and star system levels, modeled optimal visitation sequences, visualized hierarchical 
+      galaxy structure with radial and cluster-focused plots, and generated actionable insights for 
+      strategic resource collection and efficient gameplay.  
 
 
 # Education :mortar_board:
