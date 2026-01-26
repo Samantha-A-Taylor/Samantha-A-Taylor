@@ -72,7 +72,7 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
 
 # Creative Projects :sparkles:
 ***
-**[Mass Effect 3: War Asset Distribution & Strategic Analysis](https://github.com/Samantha-A-Taylor/)**
+**[Mass Effect 3: War Asset Distribution & Strategic Analysis](https://github.com/Samantha-A-Taylor/Mass-Effect-3-War-Asset-Distribution-Strategic-Analysis)**
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
       Analyzed war asset distribution across the Milky Way in Mass Effect 3 using Python, Pandas, Seaborn, 
