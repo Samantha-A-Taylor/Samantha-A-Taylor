@@ -75,11 +75,11 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
 **[Mass Effect 3: War Asset Distribution & Strategic Analysis](https://github.com/Samantha-A-Taylor/)**
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
-      Analyzed war asset distribution across the Milky Way galaxy in *Mass Effect 3* using Python, Pandas, 
-      Seaborn, Matplotlib, and SQLite. Conducted exploratory data analysis (EDA) to quantify assets at 
-      region, cluster, and star system levels, modeled optimal visitation sequences, visualized hierarchical 
-      galaxy structure with radial and cluster-focused plots, and generated actionable insights for 
-      strategic resource collection and efficient gameplay.  
+      Analyzed war asset distribution across the Milky Way in Mass Effect 3 using Python, Pandas, Seaborn, 
+      Matplotlib, and SQLite. Hand-curated dataset from a 100+ hour playthrough. Conducted exploratory data 
+      analysis to quantify assets at region, cluster, and star system levels, modeled optimal visitation 
+      sequences, visualized galaxy hierarchy with radial and cluster-focused plots, and generated actionable 
+      insights for strategic resource collection and efficient gameplay.
 
 
 # Education :mortar_board:
