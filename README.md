@@ -4,9 +4,16 @@ Welcome to my page! I am @Samantha-A-Taylor, a data enthusiast with a background
 
 After a few years teaching, I have been focusing on refining my data analytics skills through projects in sales analysis, fraud detection, education trends, and other applied analytics. This page highlights my work and the projects I have completed while preparing to bring my skills to data-driven roles in business and research.
 
+### Top Skills 💡
+      ✓ Data analysis and visualization (Python: Pandas, Matplotlib, Seaborn; R)  
+      ✓ SQL and relational database management  
+      ✓ Exploratory data analysis and statistical modeling  
+      ✓ Data cleaning, processing, and pipeline automation  
+      ✓ Dashboarding and reporting (Tableau, Excel)
 
-# Professional Projects :computer:
+# Projects :open_file_folder:
 ***
+## Professional Projects :computer:
 **[Sales Performance & Revenue Analysis KPI Trends, Product Insights, and Regional Performance](https://github.com/Samantha-A-Taylor/SalesPerformanceRevenueAnalysisKPITrendsProductInsightsAndRegionalPerformance/tree/main/)**
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
@@ -53,8 +60,7 @@ After a few years teaching, I have been focusing on refining my data analytics s
        insights into pandemic dynamics across states and territories. 
 
 
-# Research & Academic Projects :microscope:
-***
+## Research & Academic Projects :microscope:
 **[Misc. Bioinformatics Micro-Projects](https://github.com/Samantha-A-Taylor/MiscBinfMicroProjects)**
 <br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
 
@@ -76,9 +82,7 @@ After a few years teaching, I have been focusing on refining my data analytics s
      actionable insights into environmental and genetic factors driving divergence among Pacific, Sonoran, and 
      Midwest mosquito populations to inform disease management and anticipate geographic spread.
 
-
-# Creative Projects :sparkles:
-***
+## Creative Projects :sparkles:
 **[Mass Effect 3: War Asset Distribution & Strategic Analysis](https://github.com/Samantha-A-Taylor/Mass-Effect-3-War-Asset-Distribution-Strategic-Analysis)**
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
@@ -93,32 +97,30 @@ After a few years teaching, I have been focusing on refining my data analytics s
 ***
 **Master of Science in Bioinformatics and Genomics** &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; The University of North Carolina at Charlotte
 
-     ✓ programming [R, Python, SQL]
-     ✓ scripting [bash, UNIX/Linux shell]
-     ✓ statistical analysis [Pandas, NumPy, Seaborn, Numpy, Matplotlib, TopGO, etc.]
-     ✓ database management & modeling
-     ✓ data processing
-     ✓ algorithm development
-     ✓ sequence alignment
-     ✓ molecular data analysis
-     ✓ phylogenetics
-     ✓ machine learning
+      ✓ Programming [R, Python, SQL]  
+      ✓ Scripting [Bash, UNIX/Linux Shell]  
+      ✓ Statistical Analysis [Pandas, NumPy, Seaborn, NumPy, Matplotlib, TopGO, etc.]  
+      ✓ Database Management & Modeling  
+      ✓ Data Processing  
+      ✓ Algorithm Development  
+      ✓ Sequence Alignment  
+      ✓ Molecular Data Analysis  
+      ✓ Phylogenetics  
+      ✓ Machine Learning
 
 **Databases and SQL for Data Science with Python by IBM Course Certification**  &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; IBM & Coursera
 
-     ✓ data analysis within a database [SQL & Python]
-     ✓ developing basic to intermediate SQL queries for data manipulation using DML commands
-     ✓ building and structuring relational databases, creating and modifying tables via DDL
-     ✓ construct complex queries leveraging advanced SQL features including views, transactions, 
-       stored procedures, and joins
+      ✓ Data Analysis Within a Database [SQL & Python]  
+      ✓ Developing Basic to Intermediate SQL Queries for Data Manipulation Using DML Commands  
+      ✓ Building and Structuring Relational Databases, Creating and Modifying Tables via DDL  
+      ✓ Construct Complex Queries Leveraging Advanced SQL Features Including Views, Transactions, Stored Procedures, and Joins
 
 **Bachelor of Arts in Biology** &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; The University of North Carolina at Charlotte
      
 &nbsp;&nbsp;&nbsp;***Minors: Statistics and Bioinformatics***
 
-     ✓ foundational and advanced statistical methods [probability models, inference techniques, regression analysis, 
-       and experimental design]
-     ✓ programming [R, Python, SQL]
-     ✓ scripting [bash, UNIX/Linux shell]
+      ✓ Foundational and Advanced Statistical Methods [Probability Models, Inference Techniques, Regression Analysis, and Experimental Design]  
+      ✓ Programming [R, Python, SQL]  
+      ✓ Scripting [Bash, UNIX/Linux Shell]
 
 ***
