@@ -1,6 +1,8 @@
 # About Me 👋
 ***
-Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the University of North Carolina at Charlotte. I have a strong passion for numbers, statistical analysis, and data science, and I enjoy working with complex datasets. Skilled in SQL, R, and Python, I apply computational and analytical techniques to solve biological and data-driven problems. This page highlights my projects and past work as I continue exploring the intersection of data science and bioinformatics.
+Welcome to my page! I am @Samantha-A-Taylor, a data enthusiast with a background in bioinformatics and experience in Python, R, SQL, and data visualization. I have a strong foundation in exploratory data analysis, statistical modeling, and database management, and I enjoy turning complex datasets into clear, meaningful results.  
+
+After a few years teaching, I have been focusing on refining my data analytics skills through projects in sales analysis, fraud detection, education trends, and other applied analytics. This page highlights my work and the projects I have completed while preparing to bring my skills to data-driven roles in business and research.
 
 
 # Professional Projects :computer:
@@ -65,9 +67,14 @@ Welcome to my page! I am @Samantha-A-Taylor, a bioinformatics graduate from the 
 **[Local Adaptation and Range Expansion in _Culex tarsalis_: Comparative Genomics and Population-Level Analysis​](https://github.com/Samantha-A-Taylor/Culex-tarsalis)**
 <br>North Carolina Research Campus &nbsp; &nbsp; | &nbsp; &nbsp; Kannapolis, North Carolina
 
-     Research of local adaptation and range expansion in Culex tarsalis mosquitoes through use of a combination of 
-     bioinformatics tools [GenMap, OrthoFinder, UniFunc, InterProScan, etc.] and programming languages [SQL, R, Python] 
-     to analyze and troubleshoot the sample data and reference genomes. 
+     Investigated the genomic basis of local adaptation and potential range expansion in Culex tarsalis, a primary 
+     vector of West Nile virus, using reference genome analysis, orthogroup identification, gene duplication events, 
+     protein function annotation, and population-level sequencing data. Conducted quality control and alignment of 
+     884 Illumina paired-end samples, evaluated mapping efficiency, and explored alternative alignment strategies. 
+     Performed comparative genomics to identify species-specific gene duplications, linked orthogroups to Gene 
+     Ontology terms, and visualized functional patterns through frequency tables and word clouds, generating 
+     actionable insights into environmental and genetic factors driving divergence among Pacific, Sonoran, and 
+     Midwest mosquito populations to inform disease management and anticipate geographic spread.
 
 
 # Creative Projects :sparkles:
