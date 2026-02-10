@@ -14,6 +14,17 @@ After a few years teaching, I have been focusing on refining my data analytics s
 # Projects :open_file_folder:
 ***
 ## Professional Projects :computer:
+**[Data-Driven Insights into Medication Errors Across Healthcare Settings](https://github.com/Samantha-A-Taylor/Data-DrivenInsightsIntoMedicationErrorsAcrossHealthcareSettings/tree/main)**
+<br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
+
+        Analyzed real-world medication safety incident data from the National Reporting and Learning System 
+        (NRLS) in England and Wales (2016–2021) using Python, Pandas, SQL/SQLite, Seaborn, Matplotlib, 
+        and Squarify. Conducted end-to-end analysis to evaluate medication error patterns, reported harm,
+        guideline-related contributing factors, workflow vulnerabilities, and spatial–temporal variation.
+        Generated actionable insights to support patient safety, quality improvement, and targeted risk 
+        reduction across healthcare settings.  
+
+
 **[Sales Performance & Revenue Analysis KPI Trends, Product Insights, and Regional Performance](https://github.com/Samantha-A-Taylor/SalesPerformanceRevenueAnalysisKPITrendsProductInsightsAndRegionalPerformance/tree/main/)**
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
