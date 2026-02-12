@@ -7,9 +7,10 @@ After a few years teaching, I have been focusing on refining my data analytics s
 ### Top Skills 💡
       ✓ Data analysis and visualization (Python: Pandas, Matplotlib, Seaborn; R)  
       ✓ SQL and relational database management  
+      ✓ Microsoft Excel (PivotTables, PivotCharts, formulas, and functions)
+      ✓ Dashboards and interactive reporting (Tableau and Excel)
       ✓ Exploratory data analysis and statistical modeling  
       ✓ Data cleaning, processing, and pipeline automation  
-      ✓ Dashboarding and reporting (Tableau, Excel)
 
 # Projects :open_file_folder:
 ***
@@ -23,6 +24,15 @@ After a few years teaching, I have been focusing on refining my data analytics s
         guideline-related contributing factors, workflow vulnerabilities, and spatial–temporal variation.
         Generated actionable insights to support patient safety, quality improvement, and targeted risk 
         reduction across healthcare settings.  
+
+**[Diabetic Patient Readmission Trends & Dashboard: Identifying High-Risk Patients, Departments, and Clinical Drivers](https://github.com/Samantha-A-Taylor/DiabeticPatientReadmissionTrendsandDashboard)**
+<br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
+
+      Analyzed 10 years of U.S. hospital diabetic patient data (1999–2008) using Excel pivot tables, charts, 
+      and interactive dashboards. Conducted end-to-end analysis of readmission trends, patient demographics, 
+      departmental performance, and clinical complexity drivers. Engineered readmission_flag metrics, visualized 
+      risk patterns by specialty, age group, and number of diagnoses, and synthesized actionable insights to 
+      support hospital decision-making, targeted interventions, and care coordination strategies.
 
 
 **[Sales Performance & Revenue Analysis KPI Trends, Product Insights, and Regional Performance](https://github.com/Samantha-A-Taylor/SalesPerformanceRevenueAnalysisKPITrendsProductInsightsAndRegionalPerformance/tree/main/)**
