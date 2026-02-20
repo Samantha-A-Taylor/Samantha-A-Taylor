@@ -15,7 +15,7 @@ After a few years teaching, I have been focusing on refining my data analytics s
 # Projects :open_file_folder:
 ***
 ## Professional Projects :computer:
-**[Data-Driven Insights into Medication Errors Across Healthcare Settings](https://github.com/Samantha-A-Taylor/Data-DrivenInsightsIntoMedicationErrorsAcrossHealthcareSettings/tree/main)**
+**[Data-Driven Insights into Medication Errors Across Healthcare Settings](https://github.com/Samantha-A-Taylor/Data-DrivenInsightsIntoMedicationErrorsAcrossHealthcareSettings/tree/main)** 💊
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
         Analyzed real-world medication safety incident data from the National Reporting and Learning System 
@@ -25,7 +25,7 @@ After a few years teaching, I have been focusing on refining my data analytics s
         Generated actionable insights to support patient safety, quality improvement, and targeted risk 
         reduction across healthcare settings.  
 
-**[Diabetic Patient Readmission Trends & Dashboard: Identifying High-Risk Patients, Departments, and Clinical Drivers](https://github.com/Samantha-A-Taylor/DiabeticPatientReadmissionTrendsandDashboard)**
+**[Diabetic Patient Readmission Trends & Dashboard: Identifying High-Risk Patients, Departments, and Clinical Drivers](https://github.com/Samantha-A-Taylor/DiabeticPatientReadmissionTrendsandDashboard)** 🩸
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
       Analyzed 10 years of U.S. hospital diabetic patient data (1999–2008) using Excel pivot tables, charts, 
@@ -35,7 +35,7 @@ After a few years teaching, I have been focusing on refining my data analytics s
       support hospital decision-making, targeted interventions, and care coordination strategies.
 
 
-**[Sales Performance & Revenue Analysis KPI Trends, Product Insights, and Regional Performance](https://github.com/Samantha-A-Taylor/SalesPerformanceRevenueAnalysisKPITrendsProductInsightsAndRegionalPerformance/tree/main/)**
+**[Sales Performance & Revenue Analysis KPI Trends, Product Insights, and Regional Performance](https://github.com/Samantha-A-Taylor/SalesPerformanceRevenueAnalysisKPITrendsProductInsightsAndRegionalPerformance/tree/main/)** 📈
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
       Analyzed a synthetic, transaction-level retail sales dataset spanning 2022–2024 using Python, Pandas, 
@@ -45,7 +45,7 @@ After a few years teaching, I have been focusing on refining my data analytics s
       across time and geography.
 
 
-**[Multi-Factor Transaction Monitoring and Fraud Risk Analysis](https://github.com/Samantha-A-Taylor/Multi-FactorTransactionMonitoringAndFraudRiskAnalysis)**
+**[Multi-Factor Transaction Monitoring and Fraud Risk Analysis](https://github.com/Samantha-A-Taylor/Multi-FactorTransactionMonitoringAndFraudRiskAnalysis)** 🫆
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
       Analyzed a synthetic financial transaction dataset using SQL/SQLite and Tableau. Conducted end-to-end 
@@ -55,7 +55,7 @@ After a few years teaching, I have been focusing on refining my data analytics s
       proactive fraud detection and transaction monitoring.  
 
 
-**[Student Performance Analytics and Trend Analysis | March Madness Reading Challenge](https://github.com/Samantha-A-Taylor/StudentPerformanceAnalyticsAndTrendAnalysis-MarchMadnessReadingChallenge2025)**
+**[Student Performance Analytics and Trend Analysis | March Madness Reading Challenge](https://github.com/Samantha-A-Taylor/StudentPerformanceAnalyticsAndTrendAnalysis-MarchMadnessReadingChallenge2025)** 📚
 <br>Cabarrus County Schools &nbsp; &nbsp; | &nbsp; &nbsp; Concord, North Carolina
 
       Explored K–5 student reading log data from the March Madness Reading Challenge using Python, Pandas, 
@@ -63,7 +63,7 @@ After a few years teaching, I have been focusing on refining my data analytics s
       and at-risk students, and analyze class-level distributions and outliers to generate actionable insights.
 
 
-**[Quantitative Analysis of Socioeconomic Indicators, Crime, and Educational Outcomes in Chicago Communities](https://github.com/Samantha-A-Taylor/QuantitativeAnalysisOfSocioeconomicIndicatorsCrimeAndEducationalOutcomesInChicagoCommunities)**
+**[Quantitative Analysis of Socioeconomic Indicators, Crime, and Educational Outcomes in Chicago Communities](https://github.com/Samantha-A-Taylor/QuantitativeAnalysisOfSocioeconomicIndicatorsCrimeAndEducationalOutcomesInChicagoCommunities)** 🔎
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
       Conducted community-level analysis of Chicago census, public school, and crime datasets using Python, Pandas, 
@@ -72,7 +72,7 @@ After a few years teaching, I have been focusing on refining my data analytics s
       policymakers and educators.
 
 
-**[COVID-19 Case Trends and State-Level Analysis in the United States | Summer 2020 Dynamics](https://github.com/Samantha-A-Taylor/COVID-19CaseTrendsAndState-LevelAnalysisInTheUS)**
+**[COVID-19 Case Trends and State-Level Analysis in the United States | Summer 2020 Dynamics](https://github.com/Samantha-A-Taylor/COVID-19CaseTrendsAndState-LevelAnalysisInTheUS)** 🦠
 <br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
 
        Explored US COVID-19 confirmed case data from March through September 2020 using Python, Pandas, 
@@ -82,7 +82,7 @@ After a few years teaching, I have been focusing on refining my data analytics s
 
 
 ## Research & Academic Projects :microscope:
-**[Misc. Bioinformatics Micro-Projects](https://github.com/Samantha-A-Taylor/MiscBinfMicroProjects)**
+**[Misc. Bioinformatics Micro-Projects](https://github.com/Samantha-A-Taylor/MiscBinfMicroProjects)** 🧬
 <br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
 
      Graduate-level bioinformatics and phylogenetics research projects involving Bayesian and maximum likelihood 
@@ -91,7 +91,7 @@ After a few years teaching, I have been focusing on refining my data analytics s
      MUSCLE, Clustal-Omega, and HPC-based workflows.
 
 
-**[Local Adaptation and Range Expansion in _Culex tarsalis_: Comparative Genomics and Population-Level Analysis​](https://github.com/Samantha-A-Taylor/Culex-tarsalis)**
+**[Local Adaptation and Range Expansion in _Culex tarsalis_: Comparative Genomics and Population-Level Analysis​](https://github.com/Samantha-A-Taylor/Culex-tarsalis)** 🦟
 <br>North Carolina Research Campus &nbsp; &nbsp; | &nbsp; &nbsp; Kannapolis, North Carolina
 
      Investigated the genomic basis of local adaptation and potential range expansion in Culex tarsalis, a primary 
@@ -104,7 +104,8 @@ After a few years teaching, I have been focusing on refining my data analytics s
      Midwest mosquito populations to inform disease management and anticipate geographic spread.
 
 ## Creative Projects :sparkles:
-**[Mass Effect 3: War Asset Distribution & Strategic Analysis](https://github.com/Samantha-A-Taylor/Mass-Effect-3-War-Asset-Distribution-Strategic-Analysis)**
+**[Mass Effect 3: War Asset Distribution & Strategic Analysis](https://github.com/Samantha-A-Taylor/Mass-Effect-3-War-Asset-Distribution-Strategic-Analysis)** <img width="25" height="20" alt="image" src="https://github.com/user-attachments/assets/1ec31224-a4da-493e-844f-a89f5fc82823" />
+
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
       Analyzed war asset distribution across the Milky Way in Mass Effect 3 using Python, Pandas, Seaborn, 
