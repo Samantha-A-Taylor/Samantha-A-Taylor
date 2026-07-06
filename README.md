@@ -1,16 +1,19 @@
 # About Me 👋
 ***
-Welcome to my page! I am @Samantha-A-Taylor, an aspiring SOC/cybersecurity analyst with a background in bioinformatics and hands-on experience in threat triage, malware analysis, and phishing investigation, backed by CompTIA Security+ and practical SIEM/log analysis work through LetsDefend's simulated SOC environment. I also bring a strong data analytics foundation (Python, R, SQL) that lets me dig into logs, IOCs, and security data with the same rigor I'd apply to any dataset.
+Welcome to my page! I am **@Samantha-A-Taylor**, an aspiring SOC/cybersecurity analyst with a background in bioinformatics and hands-on experience in threat triage, malware analysis, and phishing investigation, backed by CompTIA Security+ and practical SIEM/log analysis work through LetsDefend's simulated SOC environment. I also bring a strong data analytics foundation (Bash, Python, R, SQL) that lets me dig into logs, IOCs, and security data with the same rigor I'd apply to any dataset.
 
 I've built out a growing portfolio of SOC analyst practice investigations covering malware alerts, phishing triage, and endpoint/log-based evidence gathering, alongside prior projects in sales analysis, fraud detection, and education trends. This page highlights my work as I prepare to bring my skills to a SOC analyst or broader cybersecurity role.
 
 ### Top Skills 💡
-      ✓ Security alert triage and incident investigation (LetsDefend SOC platform: Log Management & Endpoint Security)
+      ✓ Bash, SQL, Python, HTML, R
+      
+      ✓ Security alert triage and incident investigation
       ✓ Malware and phishing analysis (sandbox detonation, IOC validation via VirusTotal, AnyRun, HybridAnalysis, Filescan.io)
-      ✓ Malicious document/macro and script deobfuscation (CyberChef, static code review, VBA/PowerShell analysis)
+      ✓ Malicious document/macro and script deobfuscation
       ✓ Log tracing and endpoint investigation to confirm/rule out execution, containment, and persistence
-      ✓ Domain and email reputation checks (SPF, DKIM, blacklist status, MXToolbox SuperTool)
+      ✓ Domain and email reputation checks
       ✓ True positive / false positive determination with evidence-based closure reasoning
+      
       ✓ Data analysis and visualization (Python: Pandas, Matplotlib, Seaborn; R)  
       ✓ SQL and relational database management  
       ✓ Microsoft Excel (PivotTables, PivotCharts, formulas, and functions)
@@ -149,11 +152,11 @@ I've built out a growing portfolio of SOC analyst practice investigations coveri
 ***
 **CompTIA Security+**  &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Computing Technology Industry Association
 
-      ✓ General Security Concepts [Security controls, CIA triad, Non-repudiation, AAA, Zero Trust concepts, Physical security, Change management for security, Cryptographic solutions]
-      ✓ Threats, Vulnerabilities, and Mitigations [Threat actors, Threat vectors and attack surfaces, Vulnerability types, Malicious activity indicators, Mitigation techniques]
-      ✓ Security Architecture [Architecture models, Secure infrastructure principles, Data protection strategies, Resilience and recovery]
-      ✓ Security Operations [Security techniques for computing resources, Asset management lifecycle, Vulnerability management, Security alerting/monitoring tools, Enterprise security enhancement, Identity and access management, Automation/orchestration in security operations, Incident response process, Digital forensics]
-      ✓ Security Program Management and Oversight [Security governance, Risk management, Third-party risk management, Compliance, Audits and assessments, Security awareness training]
+      ✓ General Security Concepts [CIA triad, Zero Trust concepts, Cryptographic solutions]
+      ✓ Threats, Vulnerabilities, and Mitigations [Threat actors and attack surfaces, Mitigation techniques]
+      ✓ Security Architecture [Secure infrastructure principles, Architecture models, Data protection strategies, Resilience and recovery]
+      ✓ Security Operations [Identity and access management, Vulnerability management, Incident response process]
+      ✓ Security Program Management and Oversight [Risk management, Compliance]
 
 **Master of Science in Bioinformatics and Genomics** &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; The University of North Carolina at Charlotte
 
