@@ -153,7 +153,7 @@ I've built out a growing portfolio of SOC analyst practice investigations coveri
 
       ✓ General Security Concepts [CIA triad, Zero Trust concepts, Cryptographic solutions]
       ✓ Threats, Vulnerabilities, and Mitigations [Threat actors and attack surfaces, Mitigation techniques]
-      ✓ Security Architecture [Secure infrastructure principles, Architecture models, Data protection strategies, Resilience and recovery]
+      ✓ Security Architecture [Secure infrastructure principles, Architecture models, Data protection, Resilience and recovery]
       ✓ Security Operations [Identity and access management, Vulnerability management, Incident response process]
       ✓ Security Program Management and Oversight [Risk management, Compliance]
 
@@ -181,7 +181,7 @@ I've built out a growing portfolio of SOC analyst practice investigations coveri
      
 &nbsp;&nbsp;&nbsp;***Minors: Statistics and Bioinformatics***
 
-      ✓ Foundational and Advanced Statistical Methods [Probability Models, Inference Techniques, Regression Analysis, and Experimental Design]  
+      ✓ Foundational and Advanced Statistical Methods [Probability Models, Inference Techniques, Regression Analysis, Experimental Design]  
       ✓ Programming [R, Python, SQL]  
       ✓ Scripting [Bash, UNIX/Linux Shell]
 
