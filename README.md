@@ -138,7 +138,6 @@ I've built out a growing portfolio of SOC analyst practice investigations coveri
 
 ## Creative Projects :sparkles:
 **[Mass Effect 3: War Asset Distribution & Strategic Analysis](https://github.com/Samantha-A-Taylor/Mass-Effect-3-War-Asset-Distribution-Strategic-Analysis)** <img width="25" height="20" alt="image" src="https://github.com/user-attachments/assets/1ec31224-a4da-493e-844f-a89f5fc82823" />
-
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
       Analyzed war asset distribution across the Milky Way in Mass Effect 3 using Python, Pandas, Seaborn, 
