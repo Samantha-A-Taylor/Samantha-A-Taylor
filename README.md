@@ -1,20 +1,50 @@
 # About Me 👋
 ***
-Welcome to my page! I am @Samantha-A-Taylor, a data enthusiast with a background in bioinformatics and experience in Python, R, SQL, and data visualization. I have a strong foundation in exploratory data analysis, statistical modeling, and database management, and I enjoy turning complex datasets into clear, meaningful results.  
+Welcome to my page! I am @Samantha-A-Taylor, an aspiring SOC/cybersecurity analyst with a background in bioinformatics and hands-on experience in threat triage, malware analysis, and phishing investigation, backed by CompTIA Security+ and practical SIEM/log analysis work through LetsDefend's simulated SOC environment. I also bring a strong data analytics foundation (Python, R, SQL) that lets me dig into logs, IOCs, and security data with the same rigor I'd apply to any dataset.
 
-After a few years teaching, I have been focusing on refining my data analytics skills through projects in sales analysis, fraud detection, education trends, and other applied analytics. This page highlights my work and the projects I have completed while preparing to bring my skills to data-driven roles in business and research.
+I've built out a growing portfolio of SOC analyst practice investigations covering malware alerts, phishing triage, and endpoint/log-based evidence gathering, alongside prior projects in sales analysis, fraud detection, and education trends. This page highlights my work as I prepare to bring my skills to a SOC analyst or broader cybersecurity role.
 
 ### Top Skills 💡
+      ✓ Security alert triage and incident investigation (LetsDefend SOC platform: Log Management & Endpoint Security)
+      ✓ Malware and phishing analysis (sandbox detonation, IOC validation via VirusTotal, AnyRun, HybridAnalysis, Filescan.io)
+      ✓ Malicious document/macro and script deobfuscation (CyberChef, static code review, VBA/PowerShell analysis)
+      ✓ Log tracing and endpoint investigation to confirm/rule out execution, containment, and persistence
+      ✓ Domain and email reputation checks (SPF, DKIM, blacklist status, MXToolbox SuperTool)
+      ✓ True positive / false positive determination with evidence-based closure reasoning
       ✓ Data analysis and visualization (Python: Pandas, Matplotlib, Seaborn; R)  
       ✓ SQL and relational database management  
       ✓ Microsoft Excel (PivotTables, PivotCharts, formulas, and functions)
       ✓ Dashboards and interactive reporting (Tableau and Excel)
       ✓ Exploratory data analysis and statistical modeling  
-      ✓ Data cleaning, processing, and pipeline automation  
+      ✓ Data cleaning, processing, and pipeline automation
 
 # Projects :open_file_folder:
 ***
-## Professional Projects :computer:
+## Cybersecurity Projects :shield:
+
+**[Phishing Investigation Portfolio](https://github.com/Samantha-A-Taylor/PhishingInvestigationPortfolio)** 🪝
+<br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
+
+     Completed a series of hands-on phishing email and URL investigations as SOC analyst practice through 
+     LetsDefend's simulated alert environment. Conducted full investigation workflows, from header/sender 
+     triage and domain reputation checks (SPF, DKIM, blacklist status) through malicious attachment and URL 
+     analysis (VirusTotal, HybridAnalysis, Filescan.io), log tracing, and endpoint verification. Documented 
+     true positive/false positive verdicts across malicious attachments, phishing links, and internal email 
+     traffic with evidence-based closure reasoning.
+
+
+**[Malware Analysis Portfolio](https://github.com/Samantha-A-Taylor/MalwareAnalysisPortfolio)** ⚠️
+<br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
+
+     Completed a series of malware alert and analysis challenges as SOC analyst practice through LetsDefend's 
+     simulated alert environment, covering trojans, ransomware, malicious documents, and malicious scripts. 
+     Performed sandbox detonation and IOC validation (VirusTotal, AnyRun), deobfuscated hex-encoded and 
+     obfuscated scripts (CyberChef, static review) to reconstruct downloader/dropper execution chains, and 
+     traced delivery paths through log data to confirm or rule out endpoint execution. Identified living-off-
+     the-land techniques (WMI, ADODB, MSXML2) and documented evidence-based verdicts for each case.
+
+
+## Data Analyst Projects 📊
 **[Data-Driven Insights into Medication Errors Across Healthcare Settings](https://github.com/Samantha-A-Taylor/Data-DrivenInsightsIntoMedicationErrorsAcrossHealthcareSettings/tree/main)** 💊
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
@@ -117,6 +147,14 @@ After a few years teaching, I have been focusing on refining my data analytics s
 
 # Education :mortar_board:
 ***
+**CompTIA Security+**  &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Computing Technology Industry Association
+
+      ✓ General Security Concepts [Security controls, CIA triad, Non-repudiation, AAA, Zero Trust concepts, Physical security, Change management for security, Cryptographic solutions]
+      ✓ Threats, Vulnerabilities, and Mitigations [Threat actors, Threat vectors and attack surfaces, Vulnerability types, Malicious activity indicators, Mitigation techniques]
+      ✓ Security Architecture [Architecture models, Secure infrastructure principles, Data protection strategies, Resilience and recovery]
+      ✓ Security Operations [Security techniques for computing resources, Asset management lifecycle, Vulnerability management, Security alerting/monitoring tools, Enterprise security enhancement, Identity and access management, Automation/orchestration in security operations, Incident response process, Digital forensics]
+      ✓ Security Program Management and Oversight [Security governance, Risk management, Third-party risk management, Compliance, Audits and assessments, Security awareness training]
+
 **Master of Science in Bioinformatics and Genomics** &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; The University of North Carolina at Charlotte
 
       ✓ Programming [R, Python, SQL]  
