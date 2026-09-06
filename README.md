@@ -33,23 +33,30 @@ I've built out a portfolio spanning bioinformatics research, data analytics, and
 **[Local Adaptation and Range Expansion in _Culex tarsalis_: Comparative Genomics and Population-Level Analysis](https://github.com/Samantha-A-Taylor/Culex-tarsalis)** 🦟
 <br>North Carolina Research Campus &nbsp; &nbsp; | &nbsp; &nbsp; Kannapolis, North Carolina
 
-     Investigated the genomic basis of local adaptation and potential range expansion in Culex tarsalis, a primary 
-     vector of West Nile virus, using reference genome analysis, orthogroup identification, gene duplication events, 
-     protein function annotation, and population-level sequencing data. Conducted quality control and alignment of 
-     884 Illumina paired-end samples, evaluated mapping efficiency, and explored alternative alignment strategies. 
-     Performed comparative genomics to identify species-specific gene duplications, linked orthogroups to Gene 
-     Ontology terms, and visualized functional patterns through frequency tables and word clouds, generating 
-     actionable insights into environmental and genetic factors driving divergence among Pacific, Sonoran, and 
-     Midwest mosquito populations to inform disease management and anticipate geographic spread.
+     A project investigating the genomic basis of local adaptation and potential range expansion in 
+     Culex tarsalis, a primary vector of West Nile virus, using reference genome analysis, orthogroup 
+     identification, gene duplication events, protein function prediction, molecular evolution analysis, 
+     GO enrichment testing, and population-level sequencing data to examine environmental and genetic 
+     factors driving divergence among Pacific, Sonoran, and Midwest mosquito populations.
+     
+     ✓ Comparative genomics and orthology analysis (OrthoFinder, STAG, Dendroscope)
+     ✓ Molecular evolution and selection analysis (PAML/codeml, Clustal Omega, PAL2NAL)
+     ✓ NGS quality control and alignment at scale (Trimmomatic, BWA-MEM, Stampy, Samtools)
+     ✓ GO enrichment testing across ontologies (topGO, Fisher's exact test)
+     ✓ Protein function annotation and text mining (InterProScan, UniFunc, SQLite)
 
 
 **[Misc. Bioinformatics Micro-Projects](https://github.com/Samantha-A-Taylor/MiscBinfMicroProjects)** 🧬
 <br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
 
-     Graduate-level bioinformatics and phylogenetics research projects involving Bayesian and maximum likelihood 
-     inference, coalescent species tree estimation, ancestral state reconstruction, molecular clock dating, gene 
-     flow testing, and genetic distance modeling using R, R Markdown, RAxML, MrBayes, ASTRAL, phytools, phangorn, 
-     MUSCLE, Clustal-Omega, and HPC-based workflows.
+     A repository containing a collection of graduate-level bioinformatics and phylogenetics micro-projects 
+     spanning Bayesian and maximum likelihood inference, coalescent species tree estimation, ancestral state 
+     reconstruction, molecular clock dating, gene flow testing, genetic distance modeling, and tree comparison/
+     concordance analysis.
+     
+     ✓ Phylogenetic inference and tree construction (RAxML, MrBayes, ASTRAL)
+     ✓ Evolutionary and trait modeling (phytools, phangorn, MCMCtreeR)
+     ✓ Sequence alignment and HPC-based workflows (MUSCLE, Clustal-Omega, R/R Markdown)
 
 
 ## Data Analyst Projects 📊
