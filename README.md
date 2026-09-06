@@ -14,8 +14,7 @@ I've built out a portfolio spanning bioinformatics research, data analytics, and
         ✓ Microsoft Excel (PivotTables, PivotCharts, formulas, and functions)
         ✓ Dashboards and interactive reporting (Tableau and Excel)
         ✓ Exploratory data analysis and statistical modeling
-        ✓ Data cleaning, processing, and pipeline automation
-  
+        ✓ Data cleaning, processing, and pipeline automation 
   <br>
 
         ✓ Phylogenetic inference: Bayesian (MrBayes) and maximum likelihood (RAxML) methods, coalescent species tree estimation (ASTRAL)
@@ -30,16 +29,8 @@ I've built out a portfolio spanning bioinformatics research, data analytics, and
 
 ***
 ## Bioinformatics & Genomics Projects :microscope:
-**[Misc. Bioinformatics Micro-Projects](https://github.com/Samantha-A-Taylor/MiscBinfMicroProjects)** 🧬
-<br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
 
-     Graduate-level bioinformatics and phylogenetics research projects involving Bayesian and maximum likelihood 
-     inference, coalescent species tree estimation, ancestral state reconstruction, molecular clock dating, gene 
-     flow testing, and genetic distance modeling using R, R Markdown, RAxML, MrBayes, ASTRAL, phytools, phangorn, 
-     MUSCLE, Clustal-Omega, and HPC-based workflows.
-
-
-**[Local Adaptation and Range Expansion in _Culex tarsalis_: Comparative Genomics and Population-Level Analysis​](https://github.com/Samantha-A-Taylor/Culex-tarsalis)** 🦟
+**[Local Adaptation and Range Expansion in _Culex tarsalis_: Comparative Genomics and Population-Level Analysis](https://github.com/Samantha-A-Taylor/Culex-tarsalis)** 🦟
 <br>North Carolina Research Campus &nbsp; &nbsp; | &nbsp; &nbsp; Kannapolis, North Carolina
 
      Investigated the genomic basis of local adaptation and potential range expansion in Culex tarsalis, a primary 
@@ -52,6 +43,16 @@ I've built out a portfolio spanning bioinformatics research, data analytics, and
      Midwest mosquito populations to inform disease management and anticipate geographic spread.
 
 
+**[Misc. Bioinformatics Micro-Projects](https://github.com/Samantha-A-Taylor/MiscBinfMicroProjects)** 🧬
+<br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
+
+     Graduate-level bioinformatics and phylogenetics research projects involving Bayesian and maximum likelihood 
+     inference, coalescent species tree estimation, ancestral state reconstruction, molecular clock dating, gene 
+     flow testing, and genetic distance modeling using R, R Markdown, RAxML, MrBayes, ASTRAL, phytools, phangorn, 
+     MUSCLE, Clustal-Omega, and HPC-based workflows.
+
+
+## Data Analyst Projects 📊
 **[COVID-19 Case Trends and State-Level Analysis in the United States | Summer 2020 Dynamics](https://github.com/Samantha-A-Taylor/COVID-19CaseTrendsAndState-LevelAnalysisInTheUS)** 🦠
 <br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
 
@@ -61,7 +62,6 @@ I've built out a portfolio spanning bioinformatics research, data analytics, and
        insights into pandemic dynamics across states and territories. 
 
 
-## Data Analyst Projects 📊
 **[Data-Driven Insights into Medication Errors Across Healthcare Settings](https://github.com/Samantha-A-Taylor/Data-DrivenInsightsIntoMedicationErrorsAcrossHealthcareSettings/tree/main)** 💊
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
@@ -137,7 +137,7 @@ I've built out a portfolio spanning bioinformatics research, data analytics, and
 
       ✓ Programming [R, Python, SQL]  
       ✓ Scripting [Bash, UNIX/Linux Shell]  
-      ✓ Statistical Analysis [Pandas, NumPy, Seaborn, NumPy, Matplotlib, TopGO, etc.]  
+      ✓ Statistical Analysis [Pandas, Seaborn, NumPy, Matplotlib, TopGO, etc.]  
       ✓ Database Management & Modeling  
       ✓ Data Processing  
       ✓ Algorithm Development  
