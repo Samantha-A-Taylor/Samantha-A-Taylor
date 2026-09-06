@@ -1,50 +1,64 @@
 # About Me 👋
 ***
-Welcome to my page! I am **@Samantha-A-Taylor**, an aspiring SOC/cybersecurity analyst with a background in bioinformatics and hands-on experience in threat triage, malware analysis, and phishing investigation, backed by CompTIA Security+ and practical SIEM/log analysis work through LetsDefend's simulated SOC environment. I also bring a strong data analytics foundation (Bash, Python, R, SQL) that lets me dig into logs, IOCs, and security data with the same rigor I'd apply to any dataset.
+Welcome to my page! I am **@Samantha-A-Taylor**, a bioinformatician and data analyst with a Master's in Bioinformatics and Genomics, a Bachelor's in Biology/Statistics, and a strong foundation in statistical analysis, molecular data, and large-scale dataset processing. I bring a versatile programming toolkit (Bash, Python, R, SQL) to every project, whether I'm tracing genomic divergence across mosquito populations or digging into hospital readmission trends.
 
-I've built out a growing portfolio of SOC analyst practice investigations covering malware alerts, phishing triage, and endpoint/log-based evidence gathering, alongside prior projects in sales analysis, fraud detection, and education trends. This page highlights my work as I prepare to bring my skills to a SOC analyst or broader cybersecurity role.
+I've built out a portfolio spanning bioinformatics research, data analytics, and dashboard development, covering genomics, healthcare, retail, fraud, education, and public health datasets. This page highlights my work as I bring my analytical skills to a bioinformatics role.
 
-### Top Skills 💡
-      ✓ Bash, SQL, Python, HTML, R
-      
-      ✓ Security alert triage and incident investigation
-      ✓ Malware and phishing analysis (sandbox detonation, IOC validation via VirusTotal, AnyRun, HybridAnalysis, Filescan.io)
-      ✓ Malicious document/macro and script deobfuscation
-      ✓ Log tracing and endpoint investigation to confirm/rule out execution, containment, and persistence
-      ✓ Domain and email reputation checks
-      ✓ True positive / false positive determination with evidence-based closure reasoning
-      
-      ✓ Data analysis and visualization (Python: Pandas, Matplotlib, Seaborn; R)  
-      ✓ SQL and relational database management  
-      ✓ Microsoft Excel (PivotTables, PivotCharts, formulas, and functions)
-      ✓ Dashboards and interactive reporting (Tableau and Excel)
-      ✓ Exploratory data analysis and statistical modeling  
-      ✓ Data cleaning, processing, and pipeline automation
-
-# Projects :open_file_folder:
 ***
-## Cybersecurity Projects :shield:
+## Top Computational Skills 💡
+        ✓ Bash, SQL, Python, HTML, R
+<br>
 
-**[Phishing Investigation Portfolio](https://github.com/Samantha-A-Taylor/PhishingInvestigationPortfolio)** 🪝
-<br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
+        ✓ Data analysis and visualization (Python: Pandas, Matplotlib, Seaborn, NLTK; R) <br>
+        ✓ SQL and relational database management (SQLite/SQLiteStudio) <br>
+        ✓ Microsoft Excel (PivotTables, PivotCharts, formulas, and functions) <br>
+        ✓ Dashboards and interactive reporting (Tableau and Excel) <br>
+        ✓ Exploratory data analysis and statistical modeling <br>
+        ✓ Data cleaning, processing, and pipeline automation <br>
+  
+  <br>
 
-     Completed a series of hands-on phishing email and URL investigations as SOC analyst practice through 
-     LetsDefend's simulated alert environment. Conducted full investigation workflows, from header/sender 
-     triage and domain reputation checks (SPF, DKIM, blacklist status) through malicious attachment and URL 
-     analysis (VirusTotal, HybridAnalysis, Filescan.io), log tracing, and endpoint verification. Documented 
-     true positive/false positive verdicts across malicious attachments, phishing links, and internal email 
-     traffic with evidence-based closure reasoning.
+        ✓ Phylogenetic inference: Bayesian (MrBayes) and maximum likelihood (RAxML) methods, coalescent species tree estimation (ASTRAL) <br>
+        ✓ Multiple sequence alignment (MUSCLE, Clustal-Omega, msa package) <br>
+        ✓ Ancestral state reconstruction and molecular clock dating (phytools, MCMCtreeR) <br>
+        ✓ Gene flow testing (ABBA-BABA/D-statistic via evobiR) and genetic distance modeling (UPGMA, Neighbor-Joining, phangorn) <br>
+        ✓ Tree comparison and concordance analysis (symmetric difference, branch score distance, maximum agreement subtrees) <br>
+        ✓ NGS data processing: quality control and trimming (FastQC, Trimmomatic), alignment (BWA-MEM, Stampy), and alignment statistics (Samtools) <br>
+        ✓ Comparative genomics: orthogroup identification and gene duplication analysis (OrthoFinder), reference genome masking and mappability (GenMap, Bedtools) <br>
+        ✓ Protein function annotation and Gene Ontology analysis (InterProScan, UniFunc)
 
 
-**[Malware Analysis Portfolio](https://github.com/Samantha-A-Taylor/MalwareAnalysisPortfolio)** ⚠️
-<br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
+***
+## Bioinformatics & Genomics Projects :microscope:
+**[Misc. Bioinformatics Micro-Projects](https://github.com/Samantha-A-Taylor/MiscBinfMicroProjects)** 🧬
+<br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
 
-     Completed a series of malware alert and analysis challenges as SOC analyst practice through LetsDefend's 
-     simulated alert environment, covering trojans, ransomware, malicious documents, and malicious scripts. 
-     Performed sandbox detonation and IOC validation (VirusTotal, AnyRun), deobfuscated hex-encoded and 
-     obfuscated scripts (CyberChef, static review) to reconstruct downloader/dropper execution chains, and 
-     traced delivery paths through log data to confirm or rule out endpoint execution. Identified living-off-
-     the-land techniques (WMI, ADODB, MSXML2) and documented evidence-based verdicts for each case.
+     Graduate-level bioinformatics and phylogenetics research projects involving Bayesian and maximum likelihood 
+     inference, coalescent species tree estimation, ancestral state reconstruction, molecular clock dating, gene 
+     flow testing, and genetic distance modeling using R, R Markdown, RAxML, MrBayes, ASTRAL, phytools, phangorn, 
+     MUSCLE, Clustal-Omega, and HPC-based workflows.
+
+
+**[Local Adaptation and Range Expansion in _Culex tarsalis_: Comparative Genomics and Population-Level Analysis​](https://github.com/Samantha-A-Taylor/Culex-tarsalis)** 🦟
+<br>North Carolina Research Campus &nbsp; &nbsp; | &nbsp; &nbsp; Kannapolis, North Carolina
+
+     Investigated the genomic basis of local adaptation and potential range expansion in Culex tarsalis, a primary 
+     vector of West Nile virus, using reference genome analysis, orthogroup identification, gene duplication events, 
+     protein function annotation, and population-level sequencing data. Conducted quality control and alignment of 
+     884 Illumina paired-end samples, evaluated mapping efficiency, and explored alternative alignment strategies. 
+     Performed comparative genomics to identify species-specific gene duplications, linked orthogroups to Gene 
+     Ontology terms, and visualized functional patterns through frequency tables and word clouds, generating 
+     actionable insights into environmental and genetic factors driving divergence among Pacific, Sonoran, and 
+     Midwest mosquito populations to inform disease management and anticipate geographic spread.
+
+
+**[COVID-19 Case Trends and State-Level Analysis in the United States | Summer 2020 Dynamics](https://github.com/Samantha-A-Taylor/COVID-19CaseTrendsAndState-LevelAnalysisInTheUS)** 🦠
+<br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
+
+       Explored US COVID-19 confirmed case data from March through September 2020 using Python, Pandas, 
+       and Matplotlib. Conducted EDA to track state-level trends, calculate numerical and percentage increases, 
+       compute weekly average case growth, and analyze proportions of national cases, generating actionable 
+       insights into pandemic dynamics across states and territories. 
 
 
 ## Data Analyst Projects 📊
@@ -57,6 +71,7 @@ I've built out a growing portfolio of SOC analyst practice investigations coveri
         guideline-related contributing factors, workflow vulnerabilities, and spatial–temporal variation.
         Generated actionable insights to support patient safety, quality improvement, and targeted risk 
         reduction across healthcare settings.  
+
 
 **[Diabetic Patient Readmission Trends & Dashboard: Identifying High-Risk Patients, Departments, and Clinical Drivers](https://github.com/Samantha-A-Taylor/DiabeticPatientReadmissionTrendsandDashboard)** 🩸
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
@@ -105,37 +120,6 @@ I've built out a growing portfolio of SOC analyst practice investigations coveri
       policymakers and educators.
 
 
-**[COVID-19 Case Trends and State-Level Analysis in the United States | Summer 2020 Dynamics](https://github.com/Samantha-A-Taylor/COVID-19CaseTrendsAndState-LevelAnalysisInTheUS)** 🦠
-<br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
-
-       Explored US COVID-19 confirmed case data from March through September 2020 using Python, Pandas, 
-       and Matplotlib. Conducted EDA to track state-level trends, calculate numerical and percentage increases, 
-       compute weekly average case growth, and analyze proportions of national cases, generating actionable 
-       insights into pandemic dynamics across states and territories. 
-
-
-## Research & Academic Projects :microscope:
-**[Misc. Bioinformatics Micro-Projects](https://github.com/Samantha-A-Taylor/MiscBinfMicroProjects)** 🧬
-<br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
-
-     Graduate-level bioinformatics and phylogenetics research projects involving Bayesian and maximum likelihood 
-     inference, coalescent species tree estimation, ancestral state reconstruction, molecular clock dating, gene 
-     flow testing, and genetic distance modeling using R, R Markdown, RAxML, MrBayes, ASTRAL, phytools, phangorn, 
-     MUSCLE, Clustal-Omega, and HPC-based workflows.
-
-
-**[Local Adaptation and Range Expansion in _Culex tarsalis_: Comparative Genomics and Population-Level Analysis​](https://github.com/Samantha-A-Taylor/Culex-tarsalis)** 🦟
-<br>North Carolina Research Campus &nbsp; &nbsp; | &nbsp; &nbsp; Kannapolis, North Carolina
-
-     Investigated the genomic basis of local adaptation and potential range expansion in Culex tarsalis, a primary 
-     vector of West Nile virus, using reference genome analysis, orthogroup identification, gene duplication events, 
-     protein function annotation, and population-level sequencing data. Conducted quality control and alignment of 
-     884 Illumina paired-end samples, evaluated mapping efficiency, and explored alternative alignment strategies. 
-     Performed comparative genomics to identify species-specific gene duplications, linked orthogroups to Gene 
-     Ontology terms, and visualized functional patterns through frequency tables and word clouds, generating 
-     actionable insights into environmental and genetic factors driving divergence among Pacific, Sonoran, and 
-     Midwest mosquito populations to inform disease management and anticipate geographic spread.
-
 ## Creative Projects :sparkles:
 **[Mass Effect 3: War Asset Distribution & Strategic Analysis](https://github.com/Samantha-A-Taylor/Mass-Effect-3-War-Asset-Distribution-Strategic-Analysis)** <img width="25" height="20" alt="image" src="https://github.com/user-attachments/assets/1ec31224-a4da-493e-844f-a89f5fc82823" />
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
@@ -147,17 +131,9 @@ I've built out a growing portfolio of SOC analyst practice investigations coveri
       insights for strategic resource collection and efficient gameplay.
 
 
-# Education :mortar_board:
 ***
-**CompTIA Security+**  &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Computing Technology Industry Association
-
-      ✓ General Security Concepts [CIA triad, Zero Trust concepts, Cryptographic solutions]
-      ✓ Threats, Vulnerabilities, and Mitigations [Threat actors and attack surfaces, Mitigation techniques]
-      ✓ Security Architecture [Secure infrastructure principles, Architecture models, Data protection, Resilience and recovery]
-      ✓ Security Operations [Identity and access management, Vulnerability management, Incident response process]
-      ✓ Security Program Management and Oversight [Risk management, Compliance]
-
-**Master of Science in Bioinformatics and Genomics** &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; The University of North Carolina at Charlotte
+## Education :mortar_board:
+**Master of Science in Bioinformatics and Genomics** &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; ***The University of North Carolina at Charlotte***
 
       ✓ Programming [R, Python, SQL]  
       ✓ Scripting [Bash, UNIX/Linux Shell]  
@@ -170,19 +146,25 @@ I've built out a growing portfolio of SOC analyst practice investigations coveri
       ✓ Phylogenetics  
       ✓ Machine Learning
 
-**Databases and SQL for Data Science with Python by IBM Course Certification**  &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; IBM & Coursera
+**Bachelor of Arts in Biology** &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; ***The University of North Carolina at Charlotte*** &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; ***Minors: Statistics and Bioinformatics***
+
+      ✓ Foundational and Advanced Statistical Methods [Probability Models, Inference Techniques, Regression Analysis, Experimental Design]  
+      ✓ Programming [R, Python, SQL]  
+      ✓ Scripting [Bash, UNIX/Linux Shell]
+
+**Databases and SQL for Data Science with Python**  &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; ***IBM & Coursera***
 
       ✓ Data Analysis Within a Database [SQL & Python]  
       ✓ Developing Basic to Intermediate SQL Queries for Data Manipulation Using DML Commands  
       ✓ Building and Structuring Relational Databases, Creating and Modifying Tables via DDL  
       ✓ Construct Complex Queries Leveraging Advanced SQL Features Including Views, Transactions, Stored Procedures, and Joins
 
-**Bachelor of Arts in Biology** &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; The University of North Carolina at Charlotte
-     
-&nbsp;&nbsp;&nbsp;***Minors: Statistics and Bioinformatics***
+**CompTIA Security+**  &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; ***Computing Technology Industry Association***
 
-      ✓ Foundational and Advanced Statistical Methods [Probability Models, Inference Techniques, Regression Analysis, Experimental Design]  
-      ✓ Programming [R, Python, SQL]  
-      ✓ Scripting [Bash, UNIX/Linux Shell]
+      ✓ General Security Concepts [CIA triad, Zero Trust concepts, Cryptographic solutions]
+      ✓ Threats, Vulnerabilities, and Mitigations [Threat actors and attack surfaces, Mitigation techniques]
+      ✓ Security Architecture [Secure infrastructure principles, Architecture models, Data protection, Resilience and recovery]
+      ✓ Security Operations [Identity and access management, Vulnerability management, Incident response process]
+      ✓ Security Program Management and Oversight [Risk management, Compliance]
 
 ***
