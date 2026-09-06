@@ -51,8 +51,8 @@ I've built out a portfolio spanning bioinformatics research, data analytics, and
 
      A repository containing a collection of graduate-level bioinformatics and phylogenetics micro-projects 
      spanning Bayesian and maximum likelihood inference, coalescent species tree estimation, ancestral state 
-     reconstruction, molecular clock dating, gene flow testing, genetic distance modeling, and tree comparison/
-     concordance analysis.
+     reconstruction, molecular clock dating, gene flow testing, genetic distance modeling, and tree 
+     comparison/concordance analysis.
      
      ✓ Phylogenetic inference and tree construction (RAxML, MrBayes, ASTRAL)
      ✓ Evolutionary and trait modeling (phytools, phangorn, MCMCtreeR)
@@ -63,79 +63,106 @@ I've built out a portfolio spanning bioinformatics research, data analytics, and
 **[COVID-19 Case Trends and State-Level Analysis in the United States | Summer 2020 Dynamics](https://github.com/Samantha-A-Taylor/COVID-19CaseTrendsAndState-LevelAnalysisInTheUS)** 🦠
 <br>UNC Charlotte's College of Computing and Informatics &nbsp; &nbsp; | &nbsp; &nbsp; Charlotte, North Carolina
 
-       Explored US COVID-19 confirmed case data from March through September 2020 using Python, Pandas, 
-       and Matplotlib. Conducted EDA to track state-level trends, calculate numerical and percentage increases, 
-       compute weekly average case growth, and analyze proportions of national cases, generating actionable 
-       insights into pandemic dynamics across states and territories. 
+     A project analyzing US COVID-19 confirmed case data from March through September 2020 to examine 
+     state-level trends, summer case increases, weekly averages, and the proportion of national cases per 
+     state, surfacing actionable insights into pandemic dynamics for public health monitoring, reporting, 
+     and data-driven decision-making.
+        
+     ✓ Exploratory data analysis and numerical/percentage trend computation (Python, Pandas)
+     ✓ 7-day rolling average and national case-proportion visualization (Matplotlib)
 
 
 **[Data-Driven Insights into Medication Errors Across Healthcare Settings](https://github.com/Samantha-A-Taylor/Data-DrivenInsightsIntoMedicationErrorsAcrossHealthcareSettings/tree/main)** 💊
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
-        Analyzed real-world medication safety incident data from the National Reporting and Learning System 
-        (NRLS) in England and Wales (2016–2021) using Python, Pandas, SQL/SQLite, Seaborn, Matplotlib, 
-        and Squarify. Conducted end-to-end analysis to evaluate medication error patterns, reported harm,
-        guideline-related contributing factors, workflow vulnerabilities, and spatial–temporal variation.
-        Generated actionable insights to support patient safety, quality improvement, and targeted risk 
-        reduction across healthcare settings.  
+     A project analyzing real-world medication safety incident data from the National Reporting and 
+     Learning System (NRLS) in England and Wales to identify patterns, clinical risk, and workflow 
+     vulnerabilities in medication errors, examining error types, harm severity, contributing factors, 
+     and variation across medication use processes, care settings, and locations to support patient 
+     safety, quality improvement, and process optimization.
+        
+     ✓ Data cleansing and harm severity stratification (Python, Pandas, SQLite3)
+     ✓ Guideline cause-category and workflow-stage error attribution (Pandas, Seaborn)
+     ✓ Spatial-temporal hotspot detection and trend visualization (Matplotlib, Squarify, Jupyter Notebook)
 
 
 **[Diabetic Patient Readmission Trends & Dashboard: Identifying High-Risk Patients, Departments, and Clinical Drivers](https://github.com/Samantha-A-Taylor/DiabeticPatientReadmissionTrendsandDashboard)** 🩸
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
-      Analyzed 10 years of U.S. hospital diabetic patient data (1999–2008) using Excel pivot tables, charts, 
-      and interactive dashboards. Conducted end-to-end analysis of readmission trends, patient demographics, 
-      departmental performance, and clinical complexity drivers. Engineered readmission_flag metrics, visualized 
-      risk patterns by specialty, age group, and number of diagnoses, and synthesized actionable insights to 
-      support hospital decision-making, targeted interventions, and care coordination strategies.
+     A project analyzing ten years of diabetic patient hospitalization data from 130 U.S. hospitals to 
+     identify patterns and drivers of readmission within 30 days, examining patient demographics, clinical 
+     complexity, hospital department performance, and specialty-level risk to support targeted interventions, 
+     optimized care coordination, and evidence-based hospital decision-making.
+        
+     ✓ Feature engineering and readmission-outcome flagging (Excel, data cleaning and preprocessing)
+     ✓ Specialty, age, and comorbidity-level risk stratification (PivotTables, PivotCharts)
+     ✓ Interactive dashboard development with slicer-driven visualization (Excel Dashboards, pie/line/bar charting)
 
 
 **[Sales Performance & Revenue Analysis KPI Trends, Product Insights, and Regional Performance](https://github.com/Samantha-A-Taylor/SalesPerformanceRevenueAnalysisKPITrendsProductInsightsAndRegionalPerformance/tree/main/)** 📈
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
-      Analyzed a synthetic, transaction-level retail sales dataset spanning 2022–2024 using Python, Pandas, 
-      SQL/SQLite, Seaborn, and Matplotlib. Conducted end-to-end EDA to evaluate revenue and profit KPIs, 
-      product category performance, regional trends, discount impacts, and customer purchasing behavior, 
-      generating actionable insights into sales drivers, operational efficiency, and business performance 
-      across time and geography.
+     A project analyzing multi-year sales transaction data from 2022–2024 to evaluate overall business 
+     performance, revenue drivers, and profitability trends, uncovering insights into product performance, 
+     customer behavior, and regional sales dynamics to support data-driven business decisions.
+     
+     ✓ Missing-value imputation and revenue/profit recalculation (Pandas, product-level averages and medians)
+     ✓ KPI development and Average Order Value trend analysis (Python, Pandas)
+     ✓ Category, regional, and customer-frequency visualization (Matplotlib, Seaborn, Jupyter Notebook)
 
 
 **[Multi-Factor Transaction Monitoring and Fraud Risk Analysis](https://github.com/Samantha-A-Taylor/Multi-FactorTransactionMonitoringAndFraudRiskAnalysis)** 🫆
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
-      Analyzed a synthetic financial transaction dataset using SQL/SQLite and Tableau. Conducted end-to-end 
-      exploratory data analysis (EDA) to examine transaction amounts, frequency patterns, and login behavior. 
-      Engineered multi-factor fraud metrics to flag high-risk transactions, scored accounts by combined 
-      anomalies, and visualized behavioral and geographic patterns to generate actionable insights for 
-      proactive fraud detection and transaction monitoring.  
+     A project analyzing financial transaction data to identify potential fraud risk using a multi-factor, 
+     behavior-based approach, combining exploratory data analysis, anomaly detection, and engineered fraud 
+     metrics to evaluate transaction value, frequency patterns, and login behavior in support of proactive 
+     transaction monitoring.
+     
+     ✓ Account-level anomaly detection and high-value transaction flagging (SQL: CTEs, window functions)
+     ✓ Multi-factor fraud scoring and LOW/MEDIUM/HIGH risk labeling (SQL aggregation logic, SQLite)
+     ✓ Geographic and behavioral risk visualization (Tableau interactive dashboards and maps) 
 
 
 **[Student Performance Analytics and Trend Analysis | March Madness Reading Challenge](https://github.com/Samantha-A-Taylor/StudentPerformanceAnalyticsAndTrendAnalysis-MarchMadnessReadingChallenge2025)** 📚
 <br>Cabarrus County Schools &nbsp; &nbsp; | &nbsp; &nbsp; Concord, North Carolina
 
-      Explored K–5 student reading log data from the March Madness Reading Challenge using Python, Pandas, 
-      Seaborn, and Matplotlib.pyplot. Conducted EDA to track weekly reading trends, identify top performers 
-      and at-risk students, and analyze class-level distributions and outliers to generate actionable insights.
+     A project analyzing K–5 student reading log data during the March Madness Reading Challenge to 
+     explore trends, participation, outliers, and top performers at the student, class, and teacher 
+     levels, providing actionable insights for educators and administrators to support instruction, 
+     recognize excellence, and monitor student progress.
+     
+     ✓ Weekly reading log trend and progression tracking (Python, Pandas)
+     ✓ Outlier detection and zero-point student flagging (Seaborn boxplots)
+     ✓ Grade, class, and teacher-level performance visualization (Matplotlib bar and pie charts)
 
 
 **[Quantitative Analysis of Socioeconomic Indicators, Crime, and Educational Outcomes in Chicago Communities](https://github.com/Samantha-A-Taylor/QuantitativeAnalysisOfSocioeconomicIndicatorsCrimeAndEducationalOutcomesInChicagoCommunities)** 🔎
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
-      Conducted community-level analysis of Chicago census, public school, and crime datasets using Python, Pandas, 
-      Seaborn, Matplotlib, and SQLite3. Performed EDA to explore distributions, temporal and spatial trends, and 
-      correlations across socioeconomic, crime, and educational metrics, generating actionable insights for 
-      policymakers and educators.
+     A project analyzing Chicago community-level datasets, including census socioeconomic indicators, 
+     public school performance, and reported crime incidents, to uncover patterns, trends, and 
+     correlations across social, educational, and safety metrics and surfacing data-driven findings for 
+     policymakers, educators, and analysts.
+     
+     ✓ Community-level dataset integration and cleaning (Pandas, SQLite3)
+     ✓ Correlation and regression analysis of hardship, crime, and attendance (statistical modeling)
+     ✓ Spatial and heatmap visualization of crime and socioeconomic disparities (Matplotlib, Seaborn)
 
 
 ## Creative Projects :sparkles:
-**[Mass Effect 3: War Asset Distribution & Strategic Analysis](https://github.com/Samantha-A-Taylor/Mass-Effect-3-War-Asset-Distribution-Strategic-Analysis)** <img width="25" height="20" alt="image" src="https://github.com/user-attachments/assets/1ec31224-a4da-493e-844f-a89f5fc82823" />
+**[Mass Effect 3: War Asset Distribution & Strategic Analysis](https://github.com/Samantha-A-Taylor/MassEffect3WarAssetDistributionStrategicAnalysis
+)** <img width="25" height="20" alt="image" src="https://github.com/user-attachments/assets/1ec31224-a4da-493e-844f-a89f5fc82823" />
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
-      Analyzed war asset distribution across the Milky Way in Mass Effect 3 using Python, Pandas, Seaborn, 
-      Matplotlib, and SQLite. Hand-curated dataset from a 100+ hour playthrough. Conducted exploratory data 
-      analysis to quantify assets at region, cluster, and star system levels, modeled optimal visitation 
-      sequences, visualized galaxy hierarchy with radial and cluster-focused plots, and generated actionable 
-      insights for strategic resource collection and efficient gameplay.
+     A project analyzing war asset distribution across the Milky Way galaxy in Mass Effect 3, conducting 
+     exploratory data analysis at region, cluster, and star system levels, modeling optimal visitation 
+     sequences, and visualizing hierarchical galaxy structures to support strategic resource collection 
+     and efficient gameplay, using a dataset hand-curated over 100+ hours of playthroughs.
+     
+     ✓ Hand-curated dataset validation and cross-checking (Pandas, SQLite)
+     ✓ Visitation sequence modeling for asset-acquisition optimization (Python, Pandas)
+     ✓ Hierarchical galaxy mapping and high-value zone visualization (Matplotlib, Seaborn radial plots and heatmaps)
 
 
 ***
