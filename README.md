@@ -9,22 +9,22 @@ I've built out a portfolio spanning bioinformatics research, data analytics, and
         ✓ Bash, SQL, Python, HTML, R
 <br>
 
-        ✓ Data analysis and visualization (Python: Pandas, Matplotlib, Seaborn, NLTK; R) <br>
-        ✓ SQL and relational database management (SQLite/SQLiteStudio) <br>
-        ✓ Microsoft Excel (PivotTables, PivotCharts, formulas, and functions) <br>
-        ✓ Dashboards and interactive reporting (Tableau and Excel) <br>
-        ✓ Exploratory data analysis and statistical modeling <br>
-        ✓ Data cleaning, processing, and pipeline automation <br>
+        ✓ Data analysis and visualization (Python: Pandas, Matplotlib, Seaborn, NLTK; R)
+        ✓ SQL and relational database management (SQLite/SQLiteStudio)
+        ✓ Microsoft Excel (PivotTables, PivotCharts, formulas, and functions)
+        ✓ Dashboards and interactive reporting (Tableau and Excel)
+        ✓ Exploratory data analysis and statistical modeling
+        ✓ Data cleaning, processing, and pipeline automation
   
   <br>
 
-        ✓ Phylogenetic inference: Bayesian (MrBayes) and maximum likelihood (RAxML) methods, coalescent species tree estimation (ASTRAL) <br>
-        ✓ Multiple sequence alignment (MUSCLE, Clustal-Omega, msa package) <br>
-        ✓ Ancestral state reconstruction and molecular clock dating (phytools, MCMCtreeR) <br>
-        ✓ Gene flow testing (ABBA-BABA/D-statistic via evobiR) and genetic distance modeling (UPGMA, Neighbor-Joining, phangorn) <br>
-        ✓ Tree comparison and concordance analysis (symmetric difference, branch score distance, maximum agreement subtrees) <br>
-        ✓ NGS data processing: quality control and trimming (FastQC, Trimmomatic), alignment (BWA-MEM, Stampy), and alignment statistics (Samtools) <br>
-        ✓ Comparative genomics: orthogroup identification and gene duplication analysis (OrthoFinder), reference genome masking and mappability (GenMap, Bedtools) <br>
+        ✓ Phylogenetic inference: Bayesian (MrBayes) and maximum likelihood (RAxML) methods, coalescent species tree estimation (ASTRAL)
+        ✓ Multiple sequence alignment (MUSCLE, Clustal-Omega, msa package)
+        ✓ Ancestral state reconstruction and molecular clock dating (phytools, MCMCtreeR)
+        ✓ Gene flow testing (ABBA-BABA/D-statistic via evobiR) and genetic distance modeling (UPGMA, Neighbor-Joining, phangorn)
+        ✓ Tree comparison and concordance analysis (symmetric difference, branch score distance, maximum agreement subtrees)
+        ✓ NGS data processing: quality control and trimming (FastQC, Trimmomatic), alignment (BWA-MEM, Stampy), and alignment statistics (Samtools)
+        ✓ Comparative genomics: orthogroup identification and gene duplication analysis (OrthoFinder), reference genome masking and mappability (GenMap, Bedtools)
         ✓ Protein function annotation and Gene Ontology analysis (InterProScan, UniFunc)
 
 
