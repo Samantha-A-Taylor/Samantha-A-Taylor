@@ -1,30 +1,32 @@
-# About Me 👋
+# About Me :wave:
 ***
 Welcome to my page! I am **@Samantha-A-Taylor**, a bioinformatician and data analyst with a Master's in Bioinformatics and Genomics, a Bachelor's in Biology/Statistics, and a strong foundation in statistical analysis, molecular data, and large-scale dataset processing. I bring a versatile programming toolkit (Bash, Python, R, SQL) to every project, whether I'm tracing genomic divergence across mosquito populations or digging into hospital readmission trends.
 
 I've built out a portfolio spanning bioinformatics research, data analytics, and dashboard development, covering genomics, healthcare, retail, fraud, education, and public health datasets. This page highlights my work as I bring my analytical skills to a bioinformatics role.
 
 ***
-## Top Computational Skills 💡
-        ✓ Bash, SQL, Python, HTML, R
-<br>
+## Top Computational Skills :gear:
+Programming Languages:
 
-        ✓ Data analysis and visualization (Python: Pandas, Matplotlib, Seaborn, NLTK; R)
-        ✓ SQL and relational database management (SQLite/SQLiteStudio)
-        ✓ Microsoft Excel (PivotTables, PivotCharts, formulas, and functions)
-        ✓ Dashboards and interactive reporting (Tableau and Excel)
-        ✓ Exploratory data analysis and statistical modeling
-        ✓ Data cleaning, processing, and pipeline automation 
-  <br>
+     ✓ Bash, SQL, Python, HTML, R
+Analytic Techniques:
 
-        ✓ Phylogenetic inference: Bayesian (MrBayes) and maximum likelihood (RAxML) methods, coalescent species tree estimation (ASTRAL)
-        ✓ Multiple sequence alignment (MUSCLE, Clustal-Omega, msa package)
-        ✓ Ancestral state reconstruction and molecular clock dating (phytools, MCMCtreeR)
-        ✓ Gene flow testing (ABBA-BABA/D-statistic via evobiR) and genetic distance modeling (UPGMA, Neighbor-Joining, phangorn)
-        ✓ Tree comparison and concordance analysis (symmetric difference, branch score distance, maximum agreement subtrees)
-        ✓ NGS data processing: quality control and trimming (FastQC, Trimmomatic), alignment (BWA-MEM, Stampy), and alignment statistics (Samtools)
-        ✓ Comparative genomics: orthogroup identification and gene duplication analysis (OrthoFinder), reference genome masking and mappability (GenMap, Bedtools)
-        ✓ Protein function annotation and Gene Ontology analysis (InterProScan, UniFunc)
+     ✓ Data analysis and visualization (Python: Pandas, Matplotlib, Seaborn, NLTK; R)
+     ✓ SQL and relational database management (SQLite/SQLiteStudio)
+     ✓ Microsoft Excel (PivotTables, PivotCharts, formulas, and functions)
+     ✓ Dashboards and interactive reporting (Tableau and Excel)
+     ✓ Exploratory data analysis and statistical modeling
+     ✓ Data cleaning, processing, and pipeline automation 
+Genomic Techniques: 
+
+     ✓ Phylogenetic inference: Bayesian (MrBayes) and maximum likelihood (RAxML) methods, coalescent species tree estimation (ASTRAL)
+     ✓ Multiple sequence alignment (MUSCLE, Clustal-Omega, msa package)
+     ✓ Ancestral state reconstruction and molecular clock dating (phytools, MCMCtreeR)
+     ✓ Gene flow testing (ABBA-BABA/D-statistic via evobiR) and genetic distance modeling (UPGMA, Neighbor-Joining, phangorn)
+     ✓ Tree comparison and concordance analysis (symmetric difference, branch score distance, maximum agreement subtrees)
+     ✓ NGS data processing: quality control and trimming (FastQC, Trimmomatic), alignment (BWA-MEM, Stampy), and alignment statistics (Samtools)
+     ✓ Comparative genomics: orthogroup identification and gene duplication analysis (OrthoFinder), reference genome masking and mappability (GenMap, Bedtools)
+     ✓ Protein function annotation and Gene Ontology analysis (InterProScan, UniFunc)
 
 
 ***
@@ -72,7 +74,7 @@ I've built out a portfolio spanning bioinformatics research, data analytics, and
      ✓ 7-day rolling average and national case-proportion visualization (Matplotlib)
 
 
-**[Data-Driven Insights into Medication Errors Across Healthcare Settings](https://github.com/Samantha-A-Taylor/Data-DrivenInsightsIntoMedicationErrorsAcrossHealthcareSettings/tree/main)** 💊
+**[Data-Driven Insights into Medication Errors Across Healthcare Settings](https://github.com/Samantha-A-Taylor/DataDrivenInsightsIntoMedicationErrorsAcrossHealthcareSettings/tree/main)** 💊
 <br>Independent Project &nbsp; &nbsp; | &nbsp; &nbsp; Remote
 
      A project analyzing real-world medication safety incident data from the National Reporting and 
@@ -142,7 +144,7 @@ I've built out a portfolio spanning bioinformatics research, data analytics, and
 
      A project analyzing Chicago community-level datasets, including census socioeconomic indicators, 
      public school performance, and reported crime incidents, to uncover patterns, trends, and 
-     correlations across social, educational, and safety metrics and surfacing data-driven findings for 
+     correlations across social, educational, and safety metrics, surfacing data-driven findings for 
      policymakers, educators, and analysts.
      
      ✓ Community-level dataset integration and cleaning (Pandas, SQLite3)
